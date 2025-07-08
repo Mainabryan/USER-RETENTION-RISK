@@ -1,0 +1,2001 @@
+user_id,subscription_months,monthly_fee,watch_hours,content_type,device_type,region,engagement_score,churn
+U0001,5,8.93,6.8,Movies,Desktop,Europe,7.3,0
+U0002,36,8.7,61.5,Movies,Mobile,Europe,70.2,0
+U0003,15,18.59,24.6,Music,Desktop,Europe,19.8,0
+U0004,10,8.74,7.3,Movies,Desktop,Africa,24.1,0
+U0005,2,9.08,1.4,Movies,Mobile,North America,0.0,0
+U0006,2,16.39,1.8,Music,Mobile,North America,13.7,1
+U0007,1,11.75,1.0,Mixed,Desktop,Europe,7.8,0
+U0008,24,16.65,26.7,Mixed,Desktop,Asia,9.5,0
+U0009,11,5.98,16.7,Movies,Mobile,North America,43.8,0
+U0010,14,12.31,8.2,Movies,Tablet,Africa,7.6,0
+U0011,1,5.5,0.6,Music,Mobile,Asia,0.0,0
+U0012,42,5.94,45.7,Music,Desktop,Asia,31.6,0
+U0013,21,18.6,32.5,Mixed,Desktop,Asia,30.3,0
+U0014,2,7.09,1.6,Series,Desktop,Asia,0.3,1
+U0015,2,12.99,2.9,Movies,Mobile,North America,3.9,0
+U0016,2,11.17,1.8,Series,Desktop,Europe,0.0,0
+U0017,4,10.21,7.3,Series,Tablet,Asia,13.6,0
+U0018,8,18.5,14.7,Music,TV,Africa,10.8,0
+U0019,6,5.33,5.7,Movies,Tablet,Africa,0.0,0
+U0020,4,14.96,3.4,Movies,Mobile,Europe,1.9,0
+U0021,11,19.45,12.3,Music,Desktop,North America,0.0,0
+U0022,1,13.4,0.9,Series,Mobile,Europe,4.4,0
+U0023,4,19.05,6.0,Music,TV,Asia,0.0,0
+U0024,5,5.78,8.7,Mixed,Mobile,North America,10.3,1
+U0025,7,11.28,10.6,Movies,Desktop,North America,23.7,0
+U0026,18,8.9,31.3,Mixed,TV,Asia,21.8,1
+U0027,2,15.96,2.2,Music,TV,Africa,12.8,0
+U0028,8,19.72,5.9,Movies,Desktop,Asia,1.6,1
+U0029,10,8.85,16.1,Mixed,Desktop,Europe,33.6,0
+U0030,1,14.81,1.0,Mixed,Desktop,Asia,0.0,0
+U0031,11,7.97,16.6,Series,Mobile,Africa,8.2,0
+U0032,2,13.48,1.8,Movies,Tablet,Asia,8.7,0
+U0033,1,11.96,0.6,Mixed,Mobile,Europe,0.0,1
+U0034,35,19.58,69.6,Mixed,Mobile,Europe,61.2,0
+U0035,40,14.13,29.4,Series,Tablet,Africa,24.6,1
+U0036,19,10.24,37.7,Mixed,Desktop,Europe,37.3,0
+U0037,4,6.71,7.9,Mixed,Desktop,Europe,21.3,0
+U0038,1,7.27,1.7,Mixed,Tablet,Asia,0.0,0
+U0039,13,8.38,19.4,Series,Tablet,North America,19.6,0
+U0040,6,8.76,8.2,Mixed,Mobile,Europe,14.4,0
+U0041,1,17.76,1.8,Mixed,TV,Europe,3.7,0
+U0042,8,13.42,7.5,Movies,Tablet,Africa,20.6,0
+U0043,1,12.85,1.2,Movies,Mobile,Africa,0.5,1
+U0044,28,6.72,40.0,Series,TV,Asia,38.2,0
+U0045,3,17.9,3.4,Music,Desktop,Asia,9.3,0
+U0046,13,15.84,14.8,Movies,Desktop,Europe,15.8,0
+U0047,4,6.02,4.0,Series,Mobile,North America,0.1,0
+U0048,8,15.62,10.8,Mixed,Mobile,North America,16.0,1
+U0049,9,13.15,16.0,Mixed,Tablet,Asia,9.5,0
+U0050,2,6.23,1.6,Series,Desktop,Africa,0.0,1
+U0051,41,11.87,78.0,Mixed,Mobile,Europe,72.7,0
+U0052,17,12.27,26.1,Mixed,Desktop,Europe,39.6,0
+U0053,33,7.49,57.3,Music,Desktop,North America,25.1,0
+U0054,27,19.19,36.0,Mixed,Tablet,Asia,40.0,1
+U0055,10,17.75,16.7,Movies,TV,North America,17.0,0
+U0056,30,15.04,15.7,Mixed,Tablet,North America,0.0,0
+U0057,1,11.93,1.7,Series,Mobile,Asia,4.8,0
+U0058,2,11.18,1.1,Music,Tablet,Africa,5.9,0
+U0059,1,14.76,1.8,Mixed,Tablet,Europe,7.7,1
+U0060,4,13.18,8.0,Series,Desktop,Africa,0.0,1
+U0061,5,5.93,4.7,Movies,Tablet,Asia,18.4,0
+U0062,3,12.69,2.4,Mixed,Mobile,Asia,0.0,0
+U0063,21,17.1,34.6,Music,TV,Europe,41.5,0
+U0064,5,11.89,4.4,Mixed,Tablet,Africa,11.8,0
+U0065,3,5.78,5.4,Series,Tablet,Europe,0.0,0
+U0066,9,16.79,5.9,Music,TV,North America,12.5,0
+U0067,1,8.02,0.7,Mixed,Mobile,North America,0.0,0
+U0068,19,8.88,37.4,Movies,Mobile,North America,16.7,0
+U0069,1,7.47,1.5,Music,Tablet,Africa,13.2,0
+U0070,48,9.95,85.0,Movies,Desktop,North America,77.2,0
+U0071,17,16.35,16.8,Series,Tablet,Europe,8.3,0
+U0072,2,12.79,3.0,Mixed,TV,Africa,0.0,0
+U0073,1,8.07,1.4,Movies,TV,Europe,4.1,1
+U0074,20,18.17,28.1,Series,TV,Asia,27.5,0
+U0075,14,18.19,21.3,Mixed,Tablet,Africa,26.8,1
+U0076,15,18.06,20.4,Series,Tablet,Europe,7.0,0
+U0077,17,8.58,19.4,Movies,Mobile,Europe,12.0,0
+U0078,1,11.77,0.9,Series,Desktop,Africa,0.0,0
+U0079,5,19.77,8.3,Music,Tablet,Asia,27.3,0
+U0080,1,16.58,0.8,Mixed,Mobile,Africa,0.0,0
+U0081,23,5.41,35.4,Series,Tablet,North America,46.3,0
+U0082,11,5.98,9.3,Movies,Mobile,North America,9.7,0
+U0083,4,11.96,5.8,Mixed,Mobile,Asia,1.0,1
+U0084,1,18.64,1.6,Music,Desktop,Europe,0.0,0
+U0085,4,13.08,3.3,Mixed,Tablet,Europe,1.6,0
+U0086,4,12.47,2.4,Music,Mobile,Europe,8.4,0
+U0087,15,6.58,10.4,Mixed,TV,Africa,24.1,1
+U0088,12,14.85,16.9,Series,TV,Africa,20.5,0
+U0089,26,17.33,46.1,Series,TV,Asia,58.0,0
+U0090,7,10.71,4.0,Movies,Desktop,North America,0.0,0
+U0091,1,16.63,1.6,Music,Mobile,Europe,0.0,0
+U0092,14,19.47,14.2,Movies,Desktop,North America,7.0,0
+U0093,17,8.06,20.7,Series,Tablet,Africa,23.8,0
+U0094,9,12.85,17.0,Music,Tablet,Africa,13.4,1
+U0095,17,9.31,17.0,Movies,Mobile,Africa,24.3,0
+U0096,8,16.89,9.6,Movies,TV,North America,0.3,0
+U0097,8,13.66,4.2,Movies,Mobile,Asia,4.6,0
+U0098,6,14.52,3.7,Movies,Mobile,Asia,10.6,1
+U0099,1,16.97,0.9,Movies,Mobile,Africa,0.0,1
+U0100,1,10.94,0.5,Music,Desktop,Europe,21.7,1
+U0101,1,18.73,1.4,Movies,Tablet,North America,0.0,1
+U0102,12,13.0,13.7,Music,Mobile,Africa,0.0,0
+U0103,4,7.37,5.3,Movies,Mobile,North America,6.9,0
+U0104,8,15.44,6.1,Series,Mobile,North America,6.4,0
+U0105,28,16.9,26.4,Series,Desktop,Asia,25.6,0
+U0106,3,9.75,4.5,Movies,Desktop,Africa,14.4,1
+U0107,6,17.86,11.7,Mixed,Desktop,Asia,19.2,1
+U0108,16,18.59,9.2,Series,Mobile,Africa,12.2,1
+U0109,3,9.15,5.5,Music,TV,North America,10.0,0
+U0110,1,19.75,1.4,Movies,TV,Asia,0.4,0
+U0111,4,7.11,5.4,Music,TV,North America,23.2,1
+U0112,2,8.03,2.5,Mixed,Tablet,Africa,0.0,0
+U0113,31,7.76,18.7,Movies,Mobile,Europe,20.1,0
+U0114,19,18.41,12.1,Series,TV,Asia,12.8,0
+U0115,12,14.81,16.8,Music,TV,Asia,24.9,0
+U0116,24,7.28,24.3,Series,TV,North America,15.9,1
+U0117,19,11.6,35.6,Series,Mobile,North America,18.2,0
+U0118,2,14.23,2.2,Movies,TV,Europe,3.8,0
+U0119,26,6.25,18.6,Music,TV,Asia,21.4,0
+U0120,9,18.24,14.1,Mixed,Mobile,Africa,29.0,1
+U0121,19,17.05,17.9,Series,Tablet,Africa,5.2,0
+U0122,27,12.58,34.8,Movies,Desktop,Asia,46.3,0
+U0123,4,19.51,6.2,Movies,TV,Asia,29.9,1
+U0124,1,11.27,1.9,Mixed,Desktop,Asia,0.0,0
+U0125,3,19.76,5.1,Movies,Tablet,Europe,0.0,0
+U0126,6,15.02,9.1,Series,Tablet,Africa,5.0,0
+U0127,20,14.52,30.4,Movies,TV,Africa,30.5,0
+U0128,23,7.49,44.1,Music,Mobile,North America,49.7,0
+U0129,1,18.23,0.9,Music,Tablet,North America,0.0,0
+U0130,8,11.41,4.0,Series,Desktop,Asia,19.6,0
+U0131,6,7.43,5.4,Music,Desktop,North America,0.0,1
+U0132,3,5.19,2.5,Mixed,Desktop,Europe,0.0,1
+U0133,1,13.4,1.5,Movies,Desktop,Africa,12.6,0
+U0134,4,12.91,5.8,Series,Tablet,Africa,0.0,1
+U0135,34,15.79,47.3,Mixed,TV,North America,45.3,0
+U0136,4,18.35,2.1,Movies,TV,Asia,33.3,0
+U0137,8,6.19,12.7,Mixed,Desktop,North America,12.6,1
+U0138,14,15.97,13.8,Series,TV,Asia,2.6,0
+U0139,5,7.81,7.5,Series,Desktop,Europe,6.9,0
+U0140,42,17.87,56.1,Mixed,Desktop,Africa,55.6,0
+U0141,39,17.29,39.5,Movies,Mobile,Europe,41.1,0
+U0142,3,13.11,2.1,Music,Tablet,Africa,8.7,0
+U0143,8,15.65,5.1,Music,Tablet,Europe,0.0,0
+U0144,4,9.72,7.0,Mixed,Desktop,North America,23.9,0
+U0145,4,12.07,7.5,Series,Tablet,Europe,10.0,0
+U0146,1,17.32,1.5,Movies,TV,Europe,8.8,1
+U0147,11,11.89,7.2,Movies,Desktop,North America,0.9,1
+U0148,8,10.37,8.8,Series,Mobile,Africa,21.7,0
+U0149,1,12.41,1.6,Music,TV,Africa,0.0,0
+U0150,3,17.42,5.0,Movies,Mobile,North America,7.8,0
+U0151,28,10.03,19.0,Mixed,Mobile,Europe,9.7,0
+U0152,3,7.61,1.5,Music,Tablet,Europe,0.0,1
+U0153,1,15.68,1.6,Mixed,Tablet,Europe,8.5,0
+U0154,8,17.39,8.3,Music,Desktop,Asia,3.9,0
+U0155,48,6.51,42.3,Series,Tablet,Africa,33.8,0
+U0156,3,8.6,1.6,Mixed,Mobile,Europe,0.0,1
+U0157,13,7.13,17.0,Mixed,Mobile,Africa,24.0,0
+U0158,17,10.22,30.2,Series,TV,Europe,23.9,0
+U0159,3,11.76,5.8,Mixed,Mobile,North America,4.6,0
+U0160,15,16.23,20.2,Music,Desktop,North America,20.4,0
+U0161,5,14.77,6.4,Movies,Desktop,Africa,0.0,0
+U0162,12,14.31,7.5,Movies,Tablet,Africa,0.0,0
+U0163,12,10.29,15.9,Series,Tablet,North America,19.3,1
+U0164,9,17.62,9.6,Music,Tablet,Asia,2.2,0
+U0165,1,12.07,1.4,Mixed,Desktop,North America,12.0,0
+U0166,21,19.69,22.7,Mixed,Mobile,Europe,32.4,0
+U0167,4,14.51,3.4,Movies,Tablet,Asia,10.6,1
+U0168,2,6.89,1.3,Mixed,TV,North America,19.5,0
+U0169,1,15.14,1.0,Movies,Tablet,Asia,0.2,0
+U0170,10,9.88,6.4,Series,Desktop,Asia,12.9,0
+U0171,13,15.29,9.9,Mixed,Tablet,Asia,4.1,0
+U0172,1,6.04,2.0,Music,Mobile,Africa,26.5,0
+U0173,8,7.62,9.3,Mixed,Tablet,North America,29.1,0
+U0174,3,17.84,3.9,Movies,Desktop,Africa,4.0,0
+U0175,12,8.41,21.7,Series,Desktop,Africa,25.6,0
+U0176,2,17.56,4.0,Movies,TV,Europe,17.6,0
+U0177,14,9.19,19.2,Mixed,Desktop,Europe,17.7,0
+U0178,5,14.64,8.6,Movies,TV,Asia,2.0,1
+U0179,33,15.41,32.7,Movies,Mobile,Asia,41.4,0
+U0180,1,12.69,1.0,Series,Desktop,Europe,1.8,0
+U0181,5,9.58,5.5,Music,Tablet,Europe,7.3,0
+U0182,1,8.19,1.5,Mixed,Mobile,North America,0.0,0
+U0183,31,5.5,47.2,Series,Tablet,Asia,30.0,0
+U0184,25,9.56,24.3,Music,Tablet,Asia,26.7,0
+U0185,3,14.8,2.1,Movies,Tablet,Europe,11.1,0
+U0186,12,19.07,17.4,Music,Mobile,North America,15.1,0
+U0187,20,18.07,13.8,Movies,Mobile,Europe,28.2,0
+U0188,9,16.49,12.3,Movies,Desktop,Europe,5.3,0
+U0189,9,16.83,13.9,Series,Tablet,Africa,3.4,0
+U0190,3,14.97,4.7,Movies,TV,Asia,4.0,0
+U0191,1,8.9,1.6,Series,Desktop,North America,0.8,0
+U0192,27,18.61,48.9,Music,Mobile,Africa,56.6,0
+U0193,27,15.06,33.7,Music,TV,Asia,26.0,0
+U0194,12,13.41,19.1,Movies,Mobile,Europe,32.8,0
+U0195,4,6.66,5.7,Series,TV,North America,25.4,1
+U0196,5,11.71,3.9,Movies,Desktop,Asia,3.5,0
+U0197,15,11.91,8.1,Series,TV,Europe,20.6,1
+U0198,27,17.97,25.0,Series,Desktop,Africa,14.4,0
+U0199,26,13.2,30.3,Series,Mobile,North America,41.1,0
+U0200,18,10.71,25.7,Music,TV,Asia,36.2,0
+U0201,12,19.65,21.3,Series,Tablet,Africa,29.9,1
+U0202,1,6.66,0.8,Music,Tablet,Europe,0.6,0
+U0203,2,11.34,1.4,Series,Mobile,Europe,0.0,1
+U0204,27,5.63,52.5,Music,TV,Asia,46.1,0
+U0205,11,16.1,7.3,Mixed,Tablet,Europe,1.0,1
+U0206,1,18.77,1.2,Music,Desktop,North America,0.0,0
+U0207,1,9.2,1.4,Music,TV,Asia,2.6,1
+U0208,13,17.88,17.1,Movies,TV,Africa,12.9,0
+U0209,1,9.38,0.6,Series,Tablet,Asia,0.0,0
+U0210,2,18.66,1.2,Mixed,Desktop,Asia,0.0,0
+U0211,9,16.31,5.9,Movies,Desktop,Africa,0.0,1
+U0212,14,17.07,19.3,Series,Desktop,Europe,30.5,0
+U0213,12,5.27,15.8,Mixed,TV,Africa,9.2,0
+U0214,3,19.44,2.6,Mixed,Mobile,North America,0.0,0
+U0215,14,15.9,20.4,Mixed,TV,Europe,15.8,0
+U0216,3,9.57,5.2,Series,TV,Asia,8.6,0
+U0217,4,17.44,2.2,Mixed,Tablet,Europe,6.8,1
+U0218,16,9.22,20.0,Mixed,Mobile,Europe,0.0,0
+U0219,12,18.09,18.4,Movies,Desktop,North America,28.6,1
+U0220,22,6.69,19.3,Music,Tablet,Europe,33.7,1
+U0221,12,15.56,11.5,Series,TV,Europe,1.0,0
+U0222,10,13.11,14.2,Music,Mobile,Europe,4.5,0
+U0223,1,6.45,1.8,Movies,Desktop,Asia,0.0,1
+U0224,5,8.63,8.6,Music,Desktop,Europe,1.0,0
+U0225,3,5.19,4.1,Mixed,TV,Africa,6.3,1
+U0226,3,12.03,4.8,Mixed,Desktop,Europe,0.0,0
+U0227,43,9.52,45.0,Series,Desktop,North America,33.8,0
+U0228,5,13.98,7.3,Series,Mobile,Europe,22.7,1
+U0229,26,9.46,31.2,Series,Tablet,Europe,21.9,0
+U0230,11,9.5,8.6,Movies,Mobile,Asia,21.0,0
+U0231,19,16.15,29.5,Series,Tablet,Africa,33.1,1
+U0232,8,5.72,10.7,Movies,Tablet,Europe,0.0,0
+U0233,10,18.54,10.4,Mixed,Tablet,Africa,16.8,0
+U0234,8,17.78,14.9,Music,Desktop,North America,13.7,0
+U0235,2,15.02,1.1,Mixed,Mobile,Asia,0.0,0
+U0236,15,13.9,14.6,Mixed,Desktop,Africa,17.0,0
+U0237,3,18.38,1.8,Mixed,TV,Asia,6.5,0
+U0238,1,7.78,1.6,Series,Mobile,Europe,8.7,0
+U0239,12,6.18,18.6,Series,Tablet,North America,30.4,0
+U0240,2,8.59,2.0,Series,Desktop,Asia,6.1,0
+U0241,33,16.92,49.9,Music,Desktop,Europe,36.1,0
+U0242,36,5.52,39.4,Series,Mobile,Africa,34.7,0
+U0243,29,13.74,47.4,Movies,Mobile,North America,76.8,0
+U0244,5,19.93,5.9,Mixed,Tablet,North America,13.1,0
+U0245,1,17.84,1.1,Music,Tablet,Africa,24.8,0
+U0246,31,12.82,59.0,Music,TV,Africa,73.0,0
+U0247,6,5.95,5.3,Music,Tablet,North America,7.7,0
+U0248,40,17.47,27.2,Music,Desktop,Asia,30.2,0
+U0249,39,13.98,53.7,Music,TV,North America,53.3,0
+U0250,23,6.72,44.9,Movies,TV,Africa,27.5,0
+U0251,4,6.41,4.3,Mixed,TV,Asia,4.5,0
+U0252,5,18.64,3.0,Music,Mobile,Europe,15.1,1
+U0253,22,15.04,22.2,Mixed,Tablet,North America,16.2,0
+U0254,4,17.44,5.0,Series,TV,Africa,9.1,0
+U0255,2,18.18,1.5,Music,Mobile,Europe,10.0,0
+U0256,9,13.58,13.4,Music,Mobile,North America,4.3,0
+U0257,33,12.76,65.9,Mixed,TV,North America,61.4,0
+U0258,14,11.46,16.5,Music,TV,Asia,6.3,0
+U0259,10,9.75,10.3,Music,Desktop,Africa,2.1,0
+U0260,1,11.52,1.1,Music,TV,Europe,0.0,0
+U0261,11,16.61,7.4,Movies,Desktop,North America,0.0,0
+U0262,48,14.03,87.6,Movies,TV,Asia,100.0,0
+U0263,1,18.39,1.1,Music,TV,Europe,0.0,0
+U0264,8,11.65,8.6,Movies,Tablet,Europe,9.9,1
+U0265,25,14.11,37.2,Series,TV,North America,32.2,0
+U0266,16,14.47,18.6,Music,TV,Europe,30.4,1
+U0267,14,13.88,20.6,Series,Desktop,North America,33.7,0
+U0268,14,15.54,8.3,Mixed,Desktop,Asia,16.9,0
+U0269,5,8.56,8.6,Series,Tablet,Asia,11.7,0
+U0270,4,12.69,7.6,Mixed,TV,Europe,5.3,0
+U0271,19,6.56,28.0,Music,TV,North America,16.1,0
+U0272,19,10.77,36.7,Mixed,Desktop,Africa,56.1,0
+U0273,24,12.32,17.5,Mixed,Mobile,Asia,9.9,0
+U0274,29,14.78,35.3,Series,Mobile,North America,41.9,0
+U0275,8,19.26,11.2,Series,Mobile,North America,21.8,0
+U0276,8,14.01,11.0,Series,Desktop,North America,5.4,0
+U0277,19,16.15,20.9,Music,Desktop,Europe,31.3,1
+U0278,12,12.59,12.1,Music,Mobile,Africa,19.7,0
+U0279,14,14.51,9.7,Series,Mobile,Europe,27.0,0
+U0280,19,6.06,20.7,Music,TV,Asia,16.0,0
+U0281,26,8.82,19.3,Music,Desktop,Europe,6.4,1
+U0282,4,10.43,6.4,Mixed,Desktop,North America,1.3,0
+U0283,5,12.09,4.1,Mixed,Mobile,Europe,6.2,0
+U0284,1,5.68,0.6,Series,Mobile,North America,1.2,0
+U0285,10,7.1,13.3,Music,Tablet,Africa,9.4,0
+U0286,1,9.15,1.4,Mixed,Desktop,Europe,0.0,0
+U0287,7,19.57,12.7,Movies,Tablet,Europe,17.4,0
+U0288,9,9.97,12.3,Music,TV,Europe,32.0,0
+U0289,4,12.23,4.1,Movies,Tablet,North America,8.7,1
+U0290,10,7.94,17.0,Series,Mobile,North America,23.1,0
+U0291,1,14.16,1.3,Music,Desktop,Europe,7.0,0
+U0292,1,9.21,0.6,Series,Desktop,Europe,4.6,1
+U0293,20,8.1,27.0,Series,Tablet,Africa,36.3,1
+U0294,5,12.75,9.3,Series,Tablet,Africa,13.3,0
+U0295,1,5.08,1.1,Series,TV,Asia,0.0,0
+U0296,8,5.11,7.6,Series,TV,Africa,0.0,0
+U0297,17,8.29,12.2,Music,Mobile,Africa,9.7,0
+U0298,2,5.55,1.5,Movies,Mobile,Africa,4.6,1
+U0299,11,6.62,12.6,Music,Mobile,North America,9.4,0
+U0300,1,10.08,1.4,Music,Tablet,Africa,4.5,0
+U0301,1,17.04,0.6,Music,Tablet,Africa,5.0,1
+U0302,9,13.58,17.2,Mixed,Desktop,Europe,25.5,0
+U0303,9,12.69,14.7,Mixed,Mobile,North America,27.5,1
+U0304,12,9.4,16.6,Music,Tablet,Asia,17.4,0
+U0305,15,18.98,26.1,Movies,Desktop,Asia,13.0,1
+U0306,44,10.96,27.3,Music,Mobile,Africa,23.8,0
+U0307,8,6.31,9.7,Series,TV,Asia,10.1,0
+U0308,4,14.26,5.8,Mixed,TV,Asia,0.0,0
+U0309,19,6.71,33.1,Mixed,Tablet,Asia,47.0,0
+U0310,3,10.18,5.0,Music,Desktop,Africa,6.4,0
+U0311,6,12.61,5.5,Music,TV,Asia,9.3,1
+U0312,1,18.11,1.9,Movies,Desktop,Africa,15.6,1
+U0313,1,12.4,0.7,Movies,Desktop,Europe,0.0,1
+U0314,39,15.53,70.7,Series,TV,Europe,76.4,0
+U0315,21,19.89,41.1,Music,Desktop,Asia,40.0,0
+U0316,14,6.97,10.7,Music,TV,Europe,8.9,0
+U0317,6,9.12,9.5,Music,Tablet,Africa,1.8,1
+U0318,2,10.92,1.1,Mixed,Mobile,Europe,17.8,0
+U0319,2,11.33,2.2,Series,Mobile,Asia,0.0,1
+U0320,3,11.17,3.8,Movies,Tablet,Africa,10.8,0
+U0321,9,18.61,12.3,Mixed,TV,North America,0.0,1
+U0322,15,15.71,28.6,Mixed,TV,Africa,40.4,0
+U0323,12,14.12,18.1,Mixed,TV,Europe,28.6,1
+U0324,3,9.64,3.7,Mixed,TV,North America,4.7,0
+U0325,37,17.36,63.4,Series,Tablet,Africa,61.1,0
+U0326,16,19.33,30.8,Music,Mobile,North America,34.8,0
+U0327,9,17.32,4.8,Movies,Desktop,North America,27.7,1
+U0328,11,5.02,21.7,Movies,Desktop,North America,4.1,0
+U0329,6,14.55,3.8,Mixed,Mobile,Africa,11.6,0
+U0330,3,5.77,5.2,Mixed,Tablet,Europe,0.0,0
+U0331,5,8.86,4.6,Series,Desktop,Africa,4.4,1
+U0332,17,5.89,11.9,Mixed,Mobile,Europe,9.4,0
+U0333,1,14.06,1.2,Movies,Tablet,Africa,0.0,0
+U0334,1,15.3,1.5,Movies,Desktop,Africa,1.4,0
+U0335,1,6.72,1.1,Music,TV,Africa,0.0,1
+U0336,1,10.76,0.6,Music,TV,Europe,10.9,0
+U0337,23,11.84,32.2,Movies,Tablet,Africa,14.3,0
+U0338,14,10.54,26.0,Movies,TV,North America,31.4,0
+U0339,7,6.82,7.5,Series,Tablet,Africa,4.2,0
+U0340,1,11.28,0.8,Series,Mobile,North America,0.0,0
+U0341,8,16.27,9.3,Movies,Mobile,Asia,11.3,1
+U0342,7,6.07,4.0,Mixed,Desktop,Asia,0.0,0
+U0343,2,6.2,3.5,Music,Tablet,Europe,3.9,1
+U0344,6,10.32,10.4,Movies,Desktop,Europe,0.0,0
+U0345,6,19.13,8.3,Mixed,Desktop,Asia,12.9,0
+U0346,11,15.03,11.3,Movies,Mobile,Africa,2.1,0
+U0347,12,15.18,20.4,Music,Desktop,Africa,15.9,0
+U0348,1,10.43,1.3,Music,TV,Africa,4.2,1
+U0349,5,13.9,8.7,Series,Desktop,Asia,1.0,0
+U0350,11,5.15,15.9,Series,Tablet,North America,15.3,1
+U0351,8,14.54,13.4,Series,TV,Europe,0.0,0
+U0352,23,18.7,32.2,Series,Mobile,North America,38.5,0
+U0353,12,14.19,13.5,Music,Tablet,Asia,31.1,1
+U0354,2,18.11,3.9,Mixed,TV,North America,31.8,0
+U0355,1,15.86,1.3,Mixed,Tablet,Africa,2.2,1
+U0356,12,6.81,16.9,Mixed,TV,Africa,24.8,1
+U0357,1,18.54,0.8,Movies,Tablet,North America,0.0,1
+U0358,10,6.0,14.4,Series,Tablet,Asia,29.4,0
+U0359,33,13.01,44.8,Series,TV,North America,52.6,0
+U0360,10,7.13,7.8,Music,Mobile,Africa,3.0,0
+U0361,5,5.18,2.9,Music,Mobile,Africa,15.3,1
+U0362,12,11.33,16.9,Movies,Tablet,Asia,14.4,1
+U0363,7,9.43,11.5,Movies,Tablet,North America,6.9,1
+U0364,9,12.29,11.6,Mixed,Mobile,Africa,16.4,0
+U0365,34,13.66,28.6,Music,Mobile,Africa,18.0,0
+U0366,5,5.66,7.5,Series,Desktop,North America,17.7,0
+U0367,38,6.85,23.6,Mixed,Mobile,North America,13.0,0
+U0368,28,13.38,32.6,Series,Tablet,Europe,22.1,1
+U0369,2,10.15,1.5,Mixed,TV,Asia,0.0,0
+U0370,1,15.94,0.8,Series,Mobile,Asia,8.4,0
+U0371,1,14.78,0.8,Movies,Desktop,North America,0.0,0
+U0372,1,17.68,1.1,Mixed,Desktop,Asia,0.0,1
+U0373,1,15.39,0.6,Series,Desktop,Africa,0.0,0
+U0374,13,11.45,14.3,Series,TV,North America,14.0,0
+U0375,1,15.09,1.3,Music,Mobile,North America,0.0,0
+U0376,4,9.13,4.9,Mixed,Mobile,North America,0.0,0
+U0377,22,9.59,23.6,Series,Mobile,Europe,44.7,0
+U0378,1,16.83,1.8,Music,TV,Asia,0.0,0
+U0379,20,11.7,14.4,Series,TV,Europe,11.2,0
+U0380,3,16.98,3.8,Mixed,Tablet,Africa,0.1,0
+U0381,1,17.34,0.6,Movies,Desktop,Asia,0.0,0
+U0382,14,17.86,8.5,Mixed,Desktop,Europe,14.7,0
+U0383,11,18.75,15.0,Mixed,Mobile,North America,24.5,1
+U0384,25,11.46,33.7,Series,TV,Europe,30.6,1
+U0385,15,9.78,27.3,Series,TV,North America,14.9,1
+U0386,19,13.73,25.4,Mixed,Mobile,Europe,38.1,0
+U0387,3,10.57,5.8,Music,Mobile,Europe,4.8,0
+U0388,2,14.02,1.1,Music,Tablet,Europe,18.4,0
+U0389,16,15.58,10.4,Music,Desktop,North America,0.0,0
+U0390,19,15.33,10.8,Series,Desktop,Europe,12.8,0
+U0391,48,10.62,37.3,Series,Desktop,Asia,56.5,0
+U0392,6,7.5,7.9,Mixed,Tablet,Asia,4.4,1
+U0393,5,11.46,7.3,Movies,Mobile,Asia,5.0,0
+U0394,17,7.14,9.7,Series,Mobile,North America,12.7,0
+U0395,5,18.35,9.6,Mixed,Desktop,North America,4.0,0
+U0396,32,10.19,56.4,Mixed,Desktop,Asia,53.3,0
+U0397,23,7.32,21.7,Movies,Tablet,Asia,18.3,0
+U0398,6,5.38,3.7,Music,TV,Asia,0.0,0
+U0399,16,14.69,12.1,Mixed,TV,Africa,24.4,1
+U0400,16,14.55,11.0,Mixed,Desktop,Asia,15.6,0
+U0401,1,10.11,0.7,Mixed,Tablet,Europe,3.2,1
+U0402,27,6.08,34.5,Music,Desktop,Africa,42.6,0
+U0403,8,11.14,7.0,Music,TV,Africa,4.4,1
+U0404,21,9.67,21.8,Movies,Desktop,North America,14.1,0
+U0405,4,15.16,7.9,Series,TV,Europe,1.9,0
+U0406,27,14.09,41.2,Music,TV,North America,41.2,0
+U0407,5,10.47,9.6,Series,TV,North America,0.0,0
+U0408,1,8.27,0.7,Series,Mobile,Europe,0.0,0
+U0409,28,19.82,30.0,Music,Mobile,North America,24.8,0
+U0410,1,11.81,1.3,Mixed,Desktop,Europe,22.5,0
+U0411,4,15.32,2.5,Movies,TV,Europe,0.0,0
+U0412,35,7.11,17.7,Series,Mobile,North America,15.9,0
+U0413,36,12.28,54.2,Mixed,Desktop,Asia,71.5,0
+U0414,10,5.41,14.6,Music,Desktop,North America,15.8,0
+U0415,11,12.58,12.3,Series,Desktop,Africa,19.8,0
+U0416,7,19.46,8.6,Series,Desktop,North America,9.6,1
+U0417,4,10.76,4.5,Series,Desktop,Europe,0.0,0
+U0418,4,5.58,2.1,Mixed,Tablet,Africa,0.0,0
+U0419,13,5.46,13.0,Mixed,TV,Europe,15.1,1
+U0420,16,10.82,12.2,Mixed,Desktop,Asia,4.4,0
+U0421,18,7.4,11.7,Series,Tablet,Asia,3.7,0
+U0422,18,5.35,34.8,Series,TV,Africa,29.8,0
+U0423,1,16.34,1.4,Movies,Mobile,Asia,18.8,0
+U0424,8,11.88,12.7,Movies,Desktop,Asia,36.7,0
+U0425,1,9.34,1.0,Mixed,Tablet,North America,3.2,0
+U0426,9,18.5,9.8,Mixed,Mobile,North America,5.2,0
+U0427,6,6.74,5.1,Music,Tablet,Asia,0.0,0
+U0428,26,19.34,16.8,Mixed,TV,Asia,21.5,0
+U0429,5,9.71,3.8,Movies,TV,North America,21.6,1
+U0430,1,18.33,1.7,Movies,Mobile,Asia,0.0,0
+U0431,1,14.04,1.5,Movies,Tablet,Asia,0.0,1
+U0432,17,17.4,22.4,Series,Desktop,Europe,29.1,0
+U0433,11,19.76,13.3,Series,Desktop,Asia,23.2,0
+U0434,1,9.33,1.9,Mixed,Mobile,Africa,0.0,0
+U0435,1,19.42,0.6,Music,Mobile,Europe,2.4,0
+U0436,14,10.84,12.9,Music,Mobile,Africa,17.4,0
+U0437,1,10.78,1.0,Music,Tablet,Asia,0.3,1
+U0438,20,10.11,33.5,Series,Desktop,North America,25.6,0
+U0439,14,13.12,27.8,Movies,Desktop,Europe,38.0,0
+U0440,1,7.31,0.9,Movies,Desktop,North America,0.0,1
+U0441,1,13.31,1.8,Series,Mobile,Europe,0.0,0
+U0442,48,13.13,83.8,Music,Desktop,North America,63.3,0
+U0443,5,16.43,4.2,Music,TV,Europe,16.8,0
+U0444,5,17.5,5.5,Mixed,Mobile,Europe,11.7,0
+U0445,20,11.61,22.3,Mixed,Desktop,Africa,23.2,0
+U0446,35,9.53,68.9,Music,Tablet,North America,64.5,0
+U0447,48,8.89,37.0,Series,Mobile,Africa,31.7,0
+U0448,16,7.92,27.2,Music,TV,Africa,16.4,0
+U0449,5,5.86,5.0,Mixed,TV,North America,0.7,0
+U0450,1,10.14,1.6,Music,Tablet,Europe,0.0,0
+U0451,18,9.05,20.3,Series,Tablet,Africa,12.9,0
+U0452,9,19.5,12.3,Movies,Mobile,North America,9.2,1
+U0453,6,13.37,10.5,Series,Mobile,Europe,16.6,1
+U0454,28,10.21,47.8,Series,TV,Africa,47.4,0
+U0455,1,13.71,1.8,Mixed,Tablet,Africa,9.7,0
+U0456,8,7.09,4.7,Series,Mobile,Africa,18.2,0
+U0457,1,11.66,1.5,Series,TV,Europe,12.1,0
+U0458,7,14.39,5.0,Mixed,Tablet,Africa,9.7,0
+U0459,1,12.33,1.1,Mixed,TV,Europe,1.2,0
+U0460,1,11.03,1.3,Movies,Desktop,Asia,0.0,1
+U0461,1,19.91,1.1,Music,Tablet,Africa,8.5,0
+U0462,12,18.2,15.4,Series,Mobile,Asia,32.2,0
+U0463,16,14.35,31.9,Mixed,Mobile,North America,35.3,1
+U0464,10,13.54,7.0,Movies,Desktop,Africa,26.2,0
+U0465,39,14.31,59.0,Music,Tablet,North America,43.7,0
+U0466,5,8.02,5.5,Mixed,TV,North America,0.0,0
+U0467,4,10.93,2.8,Music,Mobile,North America,11.4,1
+U0468,24,5.59,17.7,Music,Desktop,Asia,20.3,0
+U0469,3,12.13,5.8,Series,Desktop,Europe,18.9,1
+U0470,39,13.15,71.0,Series,Tablet,Asia,70.8,0
+U0471,1,8.42,1.9,Mixed,Tablet,Asia,0.0,0
+U0472,42,19.46,83.5,Music,Mobile,North America,81.4,0
+U0473,1,18.64,0.8,Mixed,Desktop,Africa,0.0,0
+U0474,26,15.83,26.9,Mixed,TV,Europe,15.6,0
+U0475,9,13.0,13.5,Music,Desktop,North America,23.2,1
+U0476,48,18.05,58.8,Mixed,TV,Europe,67.5,0
+U0477,1,6.96,1.1,Music,TV,Asia,4.7,1
+U0478,9,16.86,9.3,Music,Mobile,Europe,0.0,0
+U0479,41,6.87,57.0,Music,Desktop,Europe,53.4,0
+U0480,8,16.91,10.9,Music,TV,Africa,0.0,0
+U0481,11,9.14,8.2,Movies,Tablet,North America,20.0,0
+U0482,14,18.16,16.9,Music,TV,Europe,11.1,0
+U0483,7,19.16,9.3,Series,Tablet,Europe,0.0,0
+U0484,11,7.23,14.9,Series,Tablet,Asia,15.2,1
+U0485,10,11.94,8.2,Series,Desktop,Asia,1.8,0
+U0486,27,19.71,43.6,Music,Tablet,Europe,58.4,0
+U0487,1,12.25,0.5,Series,TV,North America,0.0,0
+U0488,3,17.95,3.1,Movies,Tablet,Europe,0.0,1
+U0489,36,13.83,60.1,Mixed,Desktop,Europe,38.6,0
+U0490,26,10.63,35.0,Music,Mobile,Africa,34.7,0
+U0491,7,9.29,6.2,Series,TV,North America,0.6,0
+U0492,11,8.05,17.0,Movies,TV,Africa,2.7,1
+U0493,3,16.43,4.1,Mixed,Desktop,North America,16.0,0
+U0494,2,10.8,3.4,Movies,Desktop,North America,10.1,0
+U0495,7,12.67,11.2,Series,Desktop,North America,10.9,0
+U0496,5,12.38,7.1,Movies,Desktop,Africa,20.7,0
+U0497,10,13.66,12.3,Mixed,TV,Africa,18.9,0
+U0498,1,17.98,0.7,Series,Mobile,Africa,0.0,0
+U0499,43,19.71,38.4,Mixed,Tablet,Asia,28.0,1
+U0500,48,11.11,54.2,Movies,Tablet,Africa,62.4,0
+U0501,14,17.41,19.6,Music,Mobile,Asia,23.6,0
+U0502,9,16.47,11.4,Music,Mobile,Asia,13.1,0
+U0503,4,13.6,3.7,Music,Mobile,Asia,0.0,0
+U0504,20,19.34,10.2,Music,Desktop,Europe,16.3,0
+U0505,13,8.01,16.2,Mixed,TV,Europe,8.6,1
+U0506,2,6.64,1.9,Music,TV,Europe,0.9,0
+U0507,29,17.81,46.5,Mixed,TV,Asia,61.0,0
+U0508,20,11.59,10.7,Series,Desktop,Asia,4.1,1
+U0509,35,17.7,48.2,Music,TV,North America,32.5,0
+U0510,15,18.4,28.7,Mixed,Desktop,Asia,18.2,0
+U0511,11,5.94,8.4,Music,TV,Europe,18.3,1
+U0512,6,18.25,7.2,Music,Mobile,Asia,9.7,1
+U0513,32,11.72,20.4,Music,Tablet,Asia,19.1,0
+U0514,24,12.66,34.5,Mixed,Tablet,North America,29.4,0
+U0515,1,14.4,1.3,Movies,Desktop,Asia,6.2,0
+U0516,1,18.9,1.1,Music,TV,Africa,0.0,0
+U0517,5,5.29,6.4,Music,Tablet,North America,9.5,1
+U0518,19,12.15,35.1,Series,Mobile,Asia,27.8,1
+U0519,48,15.32,38.1,Movies,Mobile,Asia,29.1,0
+U0520,1,15.84,0.5,Mixed,Mobile,North America,0.0,0
+U0521,10,15.39,17.9,Series,Desktop,Asia,14.1,1
+U0522,5,7.02,6.8,Music,Desktop,Europe,6.3,0
+U0523,42,9.49,77.1,Series,TV,Africa,79.5,0
+U0524,22,10.38,30.7,Series,Mobile,Africa,0.0,0
+U0525,21,17.07,36.0,Music,TV,Europe,27.9,0
+U0526,7,9.18,8.0,Movies,TV,Asia,4.1,0
+U0527,6,8.16,9.7,Movies,Mobile,Asia,24.8,0
+U0528,3,19.36,5.6,Series,TV,Africa,0.0,1
+U0529,1,5.13,1.4,Music,Tablet,Asia,3.0,1
+U0530,24,19.97,18.5,Mixed,Desktop,Africa,33.5,0
+U0531,20,15.15,18.1,Series,TV,Africa,5.0,1
+U0532,48,17.43,38.3,Mixed,Mobile,Europe,42.2,0
+U0533,48,9.42,41.8,Series,Desktop,Africa,33.8,0
+U0534,9,5.21,8.6,Series,Desktop,Asia,3.6,0
+U0535,17,16.07,22.7,Music,TV,Asia,14.7,1
+U0536,34,17.51,47.0,Music,Tablet,North America,39.7,0
+U0537,22,16.11,25.1,Mixed,TV,Asia,52.3,0
+U0538,3,7.14,4.3,Mixed,Tablet,North America,12.7,0
+U0539,7,16.3,4.4,Movies,Desktop,Africa,15.4,0
+U0540,1,16.53,0.6,Music,TV,Asia,5.5,1
+U0541,36,14.88,27.3,Series,Mobile,Europe,11.2,0
+U0542,11,16.49,14.0,Series,TV,Europe,17.9,1
+U0543,3,17.69,2.5,Movies,Tablet,Europe,13.2,0
+U0544,13,14.2,12.0,Music,Tablet,Africa,3.5,1
+U0545,11,6.33,12.1,Series,TV,Africa,21.8,0
+U0546,5,12.31,8.6,Movies,Tablet,North America,15.6,0
+U0547,1,6.16,0.5,Movies,Desktop,Europe,19.0,0
+U0548,13,11.11,19.2,Series,TV,North America,15.0,0
+U0549,8,11.11,12.0,Series,Tablet,North America,1.0,1
+U0550,17,5.99,28.9,Mixed,TV,Asia,25.3,0
+U0551,8,10.23,15.2,Music,TV,Asia,29.6,0
+U0552,22,6.66,11.7,Mixed,Mobile,Europe,0.0,0
+U0553,9,17.12,6.6,Movies,TV,Africa,0.0,1
+U0554,9,19.22,16.5,Series,Mobile,Asia,17.4,1
+U0555,25,6.08,29.7,Mixed,Tablet,Africa,25.3,0
+U0556,6,19.33,8.1,Movies,Mobile,North America,8.2,0
+U0557,1,12.84,1.5,Music,Mobile,North America,11.0,0
+U0558,1,9.49,1.5,Series,Mobile,North America,0.0,1
+U0559,16,6.15,30.4,Mixed,Desktop,North America,11.7,0
+U0560,11,12.51,21.9,Music,Mobile,Europe,42.3,1
+U0561,14,16.92,22.1,Mixed,TV,North America,12.1,0
+U0562,2,15.61,1.9,Movies,Mobile,Asia,0.0,0
+U0563,1,5.75,1.8,Music,TV,North America,12.8,0
+U0564,1,6.09,0.6,Mixed,Mobile,Africa,0.0,0
+U0565,5,11.04,4.2,Music,Desktop,Asia,3.6,0
+U0566,10,9.43,18.5,Movies,Tablet,Africa,23.3,1
+U0567,5,8.49,4.4,Music,Mobile,Africa,15.2,0
+U0568,6,9.22,5.0,Mixed,Mobile,Europe,1.7,1
+U0569,28,17.05,19.8,Movies,Desktop,Europe,35.0,0
+U0570,5,18.94,8.9,Series,Mobile,Africa,0.0,0
+U0571,8,11.08,10.0,Mixed,TV,Africa,17.6,1
+U0572,18,18.59,27.2,Mixed,Mobile,North America,18.8,0
+U0573,6,9.82,5.2,Movies,Mobile,Asia,18.9,0
+U0574,11,12.15,18.0,Movies,Tablet,North America,19.4,1
+U0575,23,8.39,37.7,Series,Tablet,Europe,31.0,0
+U0576,35,14.61,33.9,Mixed,Mobile,Europe,40.5,0
+U0577,1,19.68,1.1,Movies,Desktop,North America,10.0,1
+U0578,31,14.05,25.3,Series,Tablet,Asia,31.7,0
+U0579,8,10.37,15.7,Series,Mobile,Africa,5.4,0
+U0580,3,14.72,4.4,Movies,Tablet,North America,0.0,1
+U0581,7,6.84,13.3,Mixed,Mobile,Europe,13.3,0
+U0582,46,18.33,43.9,Music,Tablet,Asia,43.5,0
+U0583,8,12.55,13.4,Music,Tablet,Europe,20.9,1
+U0584,4,11.74,6.6,Series,TV,Asia,0.0,0
+U0585,12,13.79,18.4,Music,Mobile,Asia,21.7,0
+U0586,3,14.37,5.8,Music,Mobile,Asia,2.9,0
+U0587,1,6.08,1.1,Movies,Mobile,North America,0.0,1
+U0588,1,15.24,0.7,Series,Mobile,North America,0.0,1
+U0589,1,8.63,1.5,Mixed,Tablet,North America,0.0,0
+U0590,1,15.71,1.6,Series,TV,Asia,0.0,0
+U0591,1,17.34,1.4,Movies,TV,Asia,0.0,1
+U0592,12,17.06,9.7,Music,Desktop,Europe,0.9,0
+U0593,2,13.29,2.5,Mixed,Mobile,Africa,7.8,0
+U0594,5,12.8,4.8,Series,Desktop,North America,0.0,0
+U0595,27,7.14,30.8,Music,Tablet,Asia,28.6,0
+U0596,7,16.63,10.3,Series,Desktop,Europe,25.7,1
+U0597,13,9.07,21.0,Mixed,Mobile,Europe,30.9,0
+U0598,2,12.45,1.7,Series,TV,Europe,10.7,1
+U0599,2,9.26,2.2,Series,TV,North America,0.0,1
+U0600,1,7.01,0.9,Series,Mobile,North America,6.3,0
+U0601,2,14.44,1.6,Music,Tablet,Africa,0.0,0
+U0602,3,5.81,5.0,Mixed,Mobile,Europe,3.0,0
+U0603,2,16.23,3.7,Mixed,Tablet,North America,7.8,0
+U0604,1,9.76,1.1,Music,TV,Europe,0.0,0
+U0605,1,5.0,1.6,Music,Tablet,Asia,16.5,1
+U0606,7,12.67,12.9,Music,Mobile,Europe,11.3,0
+U0607,2,5.7,3.5,Movies,Mobile,Africa,9.7,0
+U0608,5,9.14,3.9,Series,Mobile,North America,18.5,0
+U0609,8,15.6,15.5,Series,Tablet,Asia,25.8,0
+U0610,14,5.94,14.9,Mixed,Tablet,North America,0.8,0
+U0611,1,17.59,1.0,Series,Tablet,Asia,5.4,0
+U0612,19,5.06,11.3,Movies,TV,Europe,19.8,0
+U0613,11,8.7,13.5,Music,Desktop,Europe,22.4,1
+U0614,1,16.11,0.7,Mixed,Desktop,Africa,0.0,0
+U0615,24,9.74,20.9,Mixed,Mobile,Africa,14.3,0
+U0616,30,6.53,29.3,Series,TV,Asia,39.2,0
+U0617,1,10.4,1.7,Mixed,Tablet,Africa,0.0,0
+U0618,3,9.06,5.4,Music,Mobile,Africa,2.4,0
+U0619,19,17.64,18.1,Mixed,TV,Africa,33.9,0
+U0620,16,9.7,28.6,Music,Mobile,Africa,28.1,1
+U0621,2,16.83,3.6,Movies,TV,Europe,0.0,0
+U0622,2,18.38,3.3,Movies,TV,Africa,0.0,0
+U0623,5,11.51,3.6,Music,Desktop,Europe,6.9,1
+U0624,7,18.65,10.7,Series,Mobile,Europe,0.0,1
+U0625,11,10.66,21.1,Mixed,Tablet,North America,18.6,0
+U0626,5,19.46,7.6,Series,Desktop,Europe,10.9,1
+U0627,7,6.34,7.0,Mixed,Desktop,Europe,20.0,0
+U0628,16,15.31,20.0,Movies,Tablet,Africa,26.7,0
+U0629,1,12.41,1.5,Movies,TV,Europe,0.0,1
+U0630,3,10.81,3.8,Movies,Tablet,Asia,15.6,0
+U0631,14,14.49,9.5,Mixed,Mobile,Africa,6.5,0
+U0632,27,15.56,26.1,Movies,Tablet,Africa,13.7,0
+U0633,8,5.07,13.6,Movies,TV,Africa,11.9,0
+U0634,9,7.5,16.1,Movies,Tablet,North America,30.5,0
+U0635,1,15.7,0.7,Movies,TV,Africa,2.4,0
+U0636,7,15.0,13.5,Series,TV,Europe,13.6,1
+U0637,9,19.49,8.9,Movies,Mobile,Asia,25.3,0
+U0638,3,16.42,4.5,Movies,Tablet,Africa,0.0,1
+U0639,3,19.26,4.9,Series,Tablet,Africa,0.0,1
+U0640,5,15.54,8.6,Series,Mobile,Asia,0.0,1
+U0641,1,9.47,1.9,Mixed,TV,Africa,5.6,0
+U0642,4,6.58,3.9,Music,Tablet,North America,5.6,0
+U0643,2,16.73,3.6,Movies,Mobile,Europe,19.0,1
+U0644,4,14.66,2.8,Movies,TV,Asia,5.2,0
+U0645,1,5.72,1.6,Movies,Mobile,Asia,0.0,1
+U0646,26,10.4,41.9,Mixed,Tablet,North America,41.9,1
+U0647,10,19.35,15.2,Movies,Mobile,Europe,16.4,0
+U0648,13,12.51,11.4,Music,Desktop,North America,0.0,0
+U0649,18,11.49,32.6,Series,TV,Europe,59.7,0
+U0650,8,11.87,6.0,Mixed,Desktop,North America,11.2,1
+U0651,1,8.13,0.6,Series,Desktop,Africa,2.7,0
+U0652,9,10.53,14.2,Movies,TV,North America,20.4,0
+U0653,10,10.55,12.1,Movies,TV,Asia,19.2,0
+U0654,16,5.79,28.4,Movies,Mobile,Asia,27.0,1
+U0655,6,16.51,6.5,Music,TV,Asia,0.2,0
+U0656,1,11.25,0.8,Music,Desktop,North America,6.8,0
+U0657,4,17.33,7.0,Mixed,Desktop,Asia,10.9,1
+U0658,5,17.76,6.6,Series,Tablet,Asia,0.0,0
+U0659,12,8.18,9.4,Movies,TV,Africa,23.6,0
+U0660,10,14.86,15.8,Movies,Desktop,Africa,18.7,0
+U0661,5,12.08,6.3,Movies,Tablet,Europe,13.6,0
+U0662,48,18.2,67.5,Movies,Tablet,Europe,81.4,0
+U0663,11,8.24,13.1,Music,Mobile,Europe,13.3,0
+U0664,3,15.17,5.2,Series,Desktop,North America,8.4,1
+U0665,1,14.12,1.7,Series,Mobile,Europe,9.8,0
+U0666,1,9.43,1.6,Mixed,Desktop,North America,0.0,0
+U0667,3,7.05,2.0,Music,Mobile,North America,2.5,0
+U0668,2,14.77,3.5,Movies,Mobile,Europe,4.8,0
+U0669,2,16.08,3.0,Series,TV,Europe,0.0,0
+U0670,4,9.73,6.2,Series,Mobile,North America,29.4,0
+U0671,2,14.67,2.1,Music,TV,Africa,0.0,0
+U0672,27,10.93,49.1,Mixed,Tablet,Asia,36.1,0
+U0673,1,15.7,1.6,Mixed,Desktop,Asia,14.7,0
+U0674,8,7.99,5.4,Movies,Tablet,Asia,12.5,0
+U0675,6,18.35,6.7,Mixed,Desktop,Africa,0.0,0
+U0676,48,9.31,87.8,Series,Tablet,North America,93.9,0
+U0677,1,10.52,0.6,Mixed,Desktop,Europe,15.3,1
+U0678,6,5.87,11.7,Movies,Mobile,North America,11.4,0
+U0679,41,6.67,62.3,Series,Desktop,North America,88.3,0
+U0680,24,12.74,34.7,Mixed,Desktop,Europe,17.5,0
+U0681,20,9.01,18.1,Mixed,Tablet,Africa,25.0,1
+U0682,3,17.53,2.6,Music,Tablet,Asia,14.3,0
+U0683,2,5.22,3.8,Movies,Tablet,Asia,12.7,1
+U0684,13,10.69,12.3,Mixed,TV,North America,10.3,0
+U0685,31,10.06,51.6,Music,TV,Africa,48.7,0
+U0686,9,5.29,9.8,Series,Desktop,Asia,14.2,1
+U0687,10,6.87,7.1,Music,Desktop,Africa,15.3,1
+U0688,3,11.2,1.5,Music,Mobile,Europe,7.5,1
+U0689,17,12.39,22.4,Mixed,Mobile,North America,32.8,1
+U0690,2,11.06,3.9,Mixed,Desktop,North America,0.0,1
+U0691,4,12.96,4.2,Mixed,TV,Africa,1.9,1
+U0692,6,13.93,6.2,Music,Desktop,Asia,0.0,0
+U0693,8,5.15,8.1,Series,Mobile,Africa,4.2,0
+U0694,3,11.96,3.8,Movies,TV,Europe,14.0,0
+U0695,1,19.45,1.2,Music,TV,Asia,2.3,1
+U0696,11,12.79,20.0,Mixed,Mobile,Asia,46.1,0
+U0697,4,15.16,5.0,Movies,Desktop,Africa,6.9,0
+U0698,10,9.68,12.6,Series,Tablet,Europe,13.2,0
+U0699,2,16.61,1.4,Movies,Desktop,Asia,2.5,1
+U0700,7,16.59,13.8,Mixed,Desktop,North America,7.4,0
+U0701,9,12.82,7.9,Music,Mobile,Europe,7.3,1
+U0702,1,19.64,0.6,Music,TV,Asia,11.9,1
+U0703,4,6.88,6.0,Mixed,Mobile,Africa,7.1,0
+U0704,1,5.25,1.4,Music,Desktop,Asia,0.0,0
+U0705,1,16.55,1.1,Mixed,Tablet,North America,0.0,0
+U0706,48,17.11,54.4,Music,Tablet,Europe,49.9,0
+U0707,4,6.8,6.7,Music,Tablet,Asia,7.4,0
+U0708,19,8.98,15.1,Music,Mobile,North America,27.0,0
+U0709,3,5.26,5.2,Series,TV,Asia,0.0,0
+U0710,13,9.4,19.2,Series,Mobile,Asia,16.0,0
+U0711,17,16.6,19.2,Mixed,Tablet,Europe,20.6,0
+U0712,10,12.77,11.9,Series,Desktop,Africa,0.0,1
+U0713,7,10.22,6.2,Mixed,TV,Africa,0.0,1
+U0714,6,10.58,9.8,Movies,Mobile,North America,3.0,0
+U0715,5,5.02,6.3,Movies,Mobile,North America,0.0,1
+U0716,31,9.5,30.4,Series,TV,North America,32.3,0
+U0717,21,14.7,29.3,Movies,TV,Europe,27.7,0
+U0718,40,19.61,79.7,Movies,Desktop,Africa,74.1,0
+U0719,1,17.71,1.2,Music,TV,North America,5.5,0
+U0720,15,5.35,28.2,Music,Desktop,North America,45.4,0
+U0721,33,18.48,33.6,Mixed,Tablet,Asia,50.0,0
+U0722,2,16.75,1.2,Movies,Tablet,Asia,0.0,0
+U0723,1,16.71,0.8,Mixed,Mobile,North America,6.6,0
+U0724,16,11.87,18.0,Mixed,Tablet,Asia,16.2,1
+U0725,10,10.97,8.3,Movies,Tablet,Asia,9.9,0
+U0726,22,9.54,11.0,Series,Desktop,Asia,7.0,0
+U0727,1,5.99,1.9,Movies,Mobile,Europe,3.1,0
+U0728,19,8.42,33.6,Music,TV,North America,35.1,0
+U0729,2,8.7,3.2,Movies,Mobile,North America,0.0,0
+U0730,2,12.26,1.5,Series,Tablet,Asia,0.0,0
+U0731,2,16.21,1.4,Mixed,TV,Europe,0.0,0
+U0732,20,12.11,12.0,Mixed,Mobile,Asia,14.3,1
+U0733,13,5.87,20.6,Music,Mobile,Europe,26.6,0
+U0734,8,19.37,15.1,Music,Mobile,North America,23.6,0
+U0735,5,19.14,5.7,Music,Mobile,Asia,0.8,0
+U0736,25,16.78,17.0,Mixed,Desktop,North America,19.8,0
+U0737,5,19.87,6.3,Music,Mobile,Europe,15.9,0
+U0738,20,13.17,20.5,Movies,Tablet,Africa,32.2,0
+U0739,6,19.44,6.4,Mixed,Tablet,Europe,5.8,0
+U0740,5,6.13,7.2,Series,Desktop,Africa,5.0,0
+U0741,7,10.49,11.0,Mixed,TV,North America,12.9,1
+U0742,4,8.38,2.7,Movies,TV,North America,0.0,0
+U0743,16,7.94,8.9,Movies,Tablet,Asia,7.0,0
+U0744,8,7.11,15.9,Music,Tablet,Africa,23.3,0
+U0745,3,14.34,2.5,Mixed,Desktop,Europe,8.9,0
+U0746,27,16.72,15.7,Mixed,TV,North America,13.0,0
+U0747,5,13.67,3.9,Mixed,TV,Africa,6.1,0
+U0748,9,7.2,5.0,Series,Mobile,Europe,0.0,1
+U0749,28,17.17,30.5,Music,Mobile,Africa,37.5,0
+U0750,11,14.54,18.7,Movies,Mobile,Europe,17.9,0
+U0751,1,10.82,1.0,Movies,Desktop,Europe,0.0,1
+U0752,33,15.11,38.5,Music,Tablet,Europe,34.9,0
+U0753,11,8.9,16.6,Movies,Desktop,Europe,16.0,1
+U0754,4,10.18,5.1,Movies,TV,Africa,0.6,0
+U0755,1,18.76,1.8,Music,Tablet,Africa,8.4,0
+U0756,18,9.36,32.4,Movies,Mobile,Asia,28.4,0
+U0757,11,12.05,5.7,Mixed,Desktop,Africa,21.6,1
+U0758,9,18.35,15.0,Series,Desktop,Africa,29.7,1
+U0759,26,15.62,31.0,Music,Mobile,Asia,22.1,0
+U0760,18,5.93,35.7,Series,Desktop,Africa,36.4,1
+U0761,1,7.21,1.2,Movies,Mobile,Europe,0.0,0
+U0762,4,5.12,7.9,Movies,TV,North America,4.6,1
+U0763,3,14.46,4.9,Mixed,Tablet,North America,24.9,0
+U0764,16,11.72,14.0,Music,TV,Asia,10.9,0
+U0765,1,7.01,1.3,Movies,TV,Africa,4.9,0
+U0766,10,19.37,19.9,Music,Mobile,Africa,25.3,0
+U0767,17,12.94,30.4,Music,Desktop,Asia,20.4,0
+U0768,25,8.63,16.2,Music,TV,North America,7.6,0
+U0769,5,12.51,7.8,Music,TV,Europe,0.0,0
+U0770,20,15.19,20.4,Music,TV,Africa,11.5,0
+U0771,1,6.14,0.5,Series,Desktop,Asia,0.0,0
+U0772,22,9.12,24.3,Mixed,Desktop,Europe,29.7,1
+U0773,1,17.1,0.9,Music,Mobile,Asia,21.4,0
+U0774,6,11.89,10.4,Series,TV,Asia,11.9,0
+U0775,19,13.2,19.1,Movies,Tablet,Asia,4.9,0
+U0776,1,11.49,1.7,Music,Desktop,North America,0.0,0
+U0777,3,5.66,1.5,Movies,Mobile,North America,0.0,0
+U0778,15,7.49,14.4,Music,TV,Asia,4.2,0
+U0779,15,11.68,12.9,Series,Tablet,Africa,21.5,1
+U0780,12,8.14,10.2,Series,Desktop,Europe,18.3,1
+U0781,14,5.75,8.4,Series,Tablet,Africa,0.0,0
+U0782,9,17.65,7.0,Mixed,Desktop,North America,14.3,0
+U0783,3,19.72,4.0,Movies,Mobile,Europe,19.3,1
+U0784,5,16.9,4.7,Mixed,Tablet,Asia,23.7,0
+U0785,2,17.81,2.3,Music,TV,Africa,31.0,1
+U0786,28,8.63,29.8,Movies,TV,Africa,20.8,1
+U0787,10,19.41,18.1,Series,Desktop,Asia,46.3,0
+U0788,6,7.95,11.1,Movies,TV,Africa,7.6,1
+U0789,7,19.27,8.7,Series,Tablet,North America,2.8,0
+U0790,35,19.92,34.8,Mixed,Mobile,Asia,38.1,0
+U0791,1,15.68,0.7,Mixed,Desktop,Africa,0.0,1
+U0792,10,19.72,19.3,Series,Tablet,Asia,23.3,1
+U0793,8,13.54,4.7,Series,Desktop,Europe,0.0,0
+U0794,11,8.89,10.4,Music,Mobile,Asia,8.0,1
+U0795,1,11.55,0.9,Mixed,Desktop,Africa,13.8,1
+U0796,24,13.9,23.5,Mixed,TV,North America,22.9,0
+U0797,32,6.1,23.9,Music,TV,Asia,25.3,0
+U0798,9,14.34,15.1,Mixed,Desktop,Asia,19.9,0
+U0799,14,19.72,9.6,Series,Mobile,Africa,21.3,1
+U0800,30,7.85,43.6,Movies,Mobile,North America,27.0,0
+U0801,14,16.89,9.6,Movies,TV,North America,15.4,1
+U0802,1,18.62,0.6,Mixed,Mobile,Europe,0.0,0
+U0803,10,19.16,18.6,Music,Desktop,Europe,20.3,1
+U0804,11,19.4,8.6,Series,Tablet,Africa,19.2,0
+U0805,6,12.82,10.4,Movies,Desktop,North America,0.0,0
+U0806,16,19.66,21.1,Series,TV,North America,11.0,1
+U0807,32,16.36,19.7,Mixed,TV,Europe,0.3,0
+U0808,31,7.43,59.9,Mixed,TV,Europe,54.4,0
+U0809,7,12.15,6.1,Movies,Mobile,Africa,19.4,0
+U0810,1,15.77,1.8,Mixed,Desktop,North America,0.6,0
+U0811,48,8.71,36.2,Music,Tablet,Asia,22.8,0
+U0812,21,14.61,37.4,Mixed,Desktop,Europe,32.5,1
+U0813,1,15.0,0.5,Mixed,Tablet,Africa,0.0,1
+U0814,30,7.44,38.0,Mixed,Desktop,North America,26.7,0
+U0815,24,13.48,39.7,Series,TV,North America,43.6,0
+U0816,8,16.57,15.2,Series,Tablet,Europe,3.5,0
+U0817,10,12.48,18.6,Movies,Desktop,Africa,29.7,0
+U0818,6,5.18,10.4,Movies,Mobile,Asia,9.7,0
+U0819,1,5.14,1.8,Movies,Mobile,Europe,2.7,0
+U0820,4,10.36,3.2,Mixed,Desktop,Africa,0.4,0
+U0821,19,18.89,17.6,Series,TV,North America,25.3,0
+U0822,1,8.43,0.9,Music,Tablet,Asia,8.7,0
+U0823,4,14.52,4.3,Mixed,Desktop,Africa,7.7,0
+U0824,6,8.33,6.5,Mixed,Mobile,Asia,12.1,0
+U0825,9,9.83,11.9,Mixed,Tablet,Africa,9.8,0
+U0826,30,17.72,22.2,Music,Mobile,Africa,27.6,1
+U0827,5,15.93,7.7,Movies,Mobile,Africa,4.3,0
+U0828,5,6.43,3.8,Music,Desktop,Africa,3.8,0
+U0829,16,11.43,15.4,Movies,Mobile,Asia,12.7,0
+U0830,7,5.44,8.8,Music,Tablet,Europe,4.2,0
+U0831,3,12.21,5.1,Series,TV,Asia,0.0,0
+U0832,7,14.94,11.3,Mixed,Desktop,Africa,16.0,0
+U0833,1,6.78,1.5,Mixed,Tablet,Asia,14.6,0
+U0834,2,9.33,1.5,Mixed,Desktop,Asia,13.2,1
+U0835,8,10.97,10.6,Movies,Mobile,Asia,0.0,0
+U0836,6,18.79,3.8,Music,Mobile,Africa,16.7,0
+U0837,29,19.9,30.9,Series,Tablet,Asia,27.7,1
+U0838,5,5.67,5.6,Music,Tablet,North America,11.6,1
+U0839,10,16.42,5.6,Mixed,TV,Africa,0.0,0
+U0840,12,10.58,10.9,Series,Tablet,Asia,12.3,1
+U0841,1,10.89,1.9,Series,Tablet,North America,5.0,0
+U0842,13,16.31,25.1,Mixed,Desktop,Asia,10.3,0
+U0843,2,18.78,2.1,Music,Mobile,Europe,8.2,0
+U0844,38,19.26,21.5,Mixed,Tablet,Asia,35.0,0
+U0845,1,13.66,0.8,Music,TV,Asia,0.0,0
+U0846,6,10.36,6.5,Series,Tablet,Europe,20.1,1
+U0847,1,16.81,1.9,Series,Mobile,Africa,0.0,1
+U0848,48,8.77,34.2,Mixed,Tablet,Europe,42.7,0
+U0849,8,13.46,13.2,Series,Desktop,Africa,0.0,0
+U0850,10,10.38,6.6,Movies,Mobile,Europe,30.8,0
+U0851,1,14.85,2.0,Series,Tablet,Asia,17.0,1
+U0852,16,8.61,17.2,Movies,Desktop,Asia,14.4,1
+U0853,2,7.87,3.3,Series,Mobile,Africa,0.0,0
+U0854,27,18.77,27.4,Mixed,Tablet,Africa,30.3,0
+U0855,2,6.53,2.9,Mixed,Desktop,North America,0.0,1
+U0856,2,12.59,1.6,Movies,TV,North America,6.0,0
+U0857,1,8.31,0.7,Mixed,Desktop,Asia,4.8,1
+U0858,7,5.58,13.3,Series,TV,Asia,3.9,1
+U0859,9,5.54,16.9,Series,Tablet,North America,28.1,0
+U0860,1,7.63,1.8,Mixed,Desktop,North America,9.9,0
+U0861,17,18.0,24.4,Series,TV,Africa,34.2,0
+U0862,7,9.24,12.0,Music,Mobile,Europe,12.1,0
+U0863,8,19.26,4.8,Music,Desktop,Africa,0.0,0
+U0864,6,13.72,6.0,Series,Tablet,North America,15.8,0
+U0865,6,11.55,5.8,Mixed,Mobile,Asia,3.1,0
+U0866,9,13.7,13.1,Movies,TV,North America,0.0,0
+U0867,2,12.75,2.1,Mixed,Desktop,Asia,15.6,1
+U0868,2,16.38,1.4,Movies,Desktop,Asia,22.4,0
+U0869,23,9.24,32.1,Mixed,Tablet,Asia,31.7,0
+U0870,35,10.3,60.3,Series,Mobile,Asia,81.9,0
+U0871,5,18.41,5.4,Music,Desktop,Europe,6.3,0
+U0872,3,19.2,2.1,Mixed,Desktop,North America,0.0,1
+U0873,12,18.39,9.5,Movies,Mobile,Africa,3.2,0
+U0874,6,11.29,5.1,Music,Desktop,Asia,21.5,0
+U0875,1,16.71,0.9,Movies,Mobile,Asia,0.0,0
+U0876,2,12.15,2.9,Series,Mobile,Africa,10.3,0
+U0877,15,12.46,21.0,Music,Mobile,Africa,15.4,1
+U0878,12,8.07,18.5,Movies,Tablet,Asia,13.9,0
+U0879,1,13.87,1.0,Mixed,Mobile,Africa,11.3,1
+U0880,3,7.79,5.2,Series,Mobile,Africa,1.4,0
+U0881,3,9.97,2.4,Series,TV,Europe,0.0,0
+U0882,13,17.83,15.6,Series,TV,Africa,26.9,1
+U0883,1,8.11,1.7,Mixed,Tablet,North America,17.7,0
+U0884,1,6.07,0.8,Mixed,Mobile,North America,7.2,0
+U0885,19,6.04,12.6,Music,TV,North America,6.1,0
+U0886,2,19.11,3.7,Mixed,TV,Asia,0.0,0
+U0887,12,12.6,12.2,Music,Desktop,North America,13.0,0
+U0888,3,11.14,4.6,Series,Mobile,Europe,7.8,0
+U0889,1,17.16,0.5,Music,TV,North America,0.0,1
+U0890,3,17.54,4.6,Movies,Tablet,Asia,11.8,0
+U0891,15,9.98,14.6,Series,Desktop,Europe,15.5,0
+U0892,23,15.4,13.4,Series,Desktop,North America,0.0,1
+U0893,21,16.57,29.7,Music,Mobile,Europe,20.4,1
+U0894,6,14.82,5.2,Series,Mobile,Europe,0.2,0
+U0895,13,7.27,14.0,Mixed,Desktop,Asia,13.3,0
+U0896,2,18.14,1.2,Movies,Tablet,Asia,20.1,0
+U0897,4,13.09,2.9,Music,Mobile,Europe,5.3,0
+U0898,27,9.24,25.6,Music,Mobile,North America,17.2,1
+U0899,1,11.38,0.6,Series,Desktop,Asia,2.8,0
+U0900,1,5.56,1.9,Mixed,Desktop,Europe,0.0,0
+U0901,2,6.92,1.0,Series,Mobile,Africa,4.2,0
+U0902,1,16.48,1.2,Series,TV,Africa,7.0,0
+U0903,2,5.0,1.4,Music,Mobile,Asia,13.5,0
+U0904,10,11.25,9.6,Series,TV,North America,9.4,1
+U0905,6,12.84,11.3,Movies,Desktop,Africa,27.7,0
+U0906,26,5.82,19.3,Series,TV,Africa,28.4,0
+U0907,20,19.6,39.0,Series,Tablet,Africa,31.9,0
+U0908,5,8.39,4.0,Music,Desktop,North America,26.1,0
+U0909,3,9.56,4.8,Series,Mobile,North America,8.1,0
+U0910,5,9.56,6.6,Mixed,Mobile,Asia,0.0,0
+U0911,10,8.46,18.3,Music,Desktop,Asia,34.8,0
+U0912,3,5.02,4.0,Series,Desktop,Africa,24.8,0
+U0913,11,15.94,14.3,Movies,Tablet,North America,14.0,0
+U0914,6,19.5,4.8,Movies,Desktop,Europe,0.0,0
+U0915,9,8.36,6.7,Music,Mobile,Africa,5.0,0
+U0916,6,14.95,11.2,Music,Tablet,Asia,18.3,0
+U0917,4,16.13,4.0,Series,Mobile,North America,16.8,1
+U0918,35,17.73,37.0,Mixed,TV,Asia,42.7,0
+U0919,17,11.34,27.9,Series,Desktop,Asia,28.9,1
+U0920,1,9.54,1.0,Movies,TV,North America,16.0,0
+U0921,24,9.88,46.3,Mixed,Mobile,Africa,43.2,0
+U0922,8,15.69,12.9,Mixed,TV,North America,23.2,0
+U0923,26,17.25,36.3,Mixed,TV,Africa,33.4,0
+U0924,19,7.72,34.6,Series,Mobile,Asia,38.9,0
+U0925,6,10.56,3.4,Movies,Mobile,North America,2.3,0
+U0926,1,18.53,0.9,Music,Desktop,Europe,0.3,1
+U0927,3,17.1,3.6,Series,TV,Africa,0.0,0
+U0928,9,19.77,7.6,Music,Tablet,Europe,21.0,1
+U0929,12,16.31,19.4,Mixed,Tablet,Africa,12.1,0
+U0930,3,10.9,5.6,Mixed,Mobile,North America,0.0,1
+U0931,1,13.86,1.1,Series,Mobile,Europe,22.3,0
+U0932,21,14.92,21.3,Movies,TV,North America,31.1,1
+U0933,48,6.18,93.2,Mixed,Mobile,Africa,69.3,0
+U0934,8,13.17,9.3,Music,Tablet,Africa,3.6,0
+U0935,2,15.64,2.5,Music,Desktop,Africa,0.0,0
+U0936,3,7.51,3.1,Series,Desktop,Africa,0.0,1
+U0937,1,16.71,1.9,Music,TV,Asia,0.0,0
+U0938,29,13.76,39.2,Movies,Desktop,Africa,37.8,0
+U0939,1,19.28,1.6,Mixed,Mobile,Europe,0.0,0
+U0940,10,5.64,17.2,Music,Mobile,Africa,17.8,0
+U0941,3,8.98,3.0,Music,Mobile,North America,0.0,0
+U0942,9,14.02,10.4,Mixed,Mobile,Asia,11.2,0
+U0943,12,9.45,21.3,Series,TV,Europe,17.2,0
+U0944,21,15.72,21.9,Music,Desktop,Asia,36.9,0
+U0945,2,16.39,3.4,Series,Tablet,Asia,17.5,0
+U0946,1,6.54,1.9,Series,Desktop,Asia,9.8,0
+U0947,1,12.71,1.4,Music,Mobile,North America,0.0,1
+U0948,27,12.63,43.5,Movies,Tablet,Asia,63.4,0
+U0949,24,10.54,41.0,Series,TV,Asia,25.5,0
+U0950,10,18.99,17.7,Music,Mobile,Africa,3.7,0
+U0951,11,17.41,12.0,Series,Mobile,North America,11.2,0
+U0952,13,15.46,7.5,Mixed,Tablet,Europe,30.0,0
+U0953,2,15.71,2.2,Movies,TV,Europe,0.2,0
+U0954,29,11.93,43.8,Movies,Tablet,Europe,42.0,0
+U0955,6,18.81,7.1,Mixed,TV,North America,0.0,0
+U0956,5,15.42,8.1,Mixed,Mobile,Europe,17.6,1
+U0957,8,15.93,8.3,Series,Desktop,North America,17.8,0
+U0958,1,17.93,1.5,Mixed,Mobile,Africa,9.4,0
+U0959,2,9.11,1.6,Movies,Desktop,Africa,0.0,1
+U0960,16,17.11,26.0,Mixed,Desktop,North America,18.9,1
+U0961,1,7.93,1.3,Music,TV,Europe,0.0,0
+U0962,11,10.18,8.9,Music,Tablet,North America,9.7,1
+U0963,3,10.03,2.8,Series,TV,North America,0.0,1
+U0964,5,19.68,8.1,Movies,Mobile,Asia,0.0,0
+U0965,4,17.85,4.9,Music,Tablet,North America,0.7,1
+U0966,5,15.52,4.1,Mixed,Desktop,Asia,0.0,1
+U0967,15,15.91,29.3,Music,Desktop,Africa,23.9,0
+U0968,4,13.43,6.3,Music,Mobile,Asia,11.0,1
+U0969,10,19.21,19.4,Series,Tablet,North America,20.2,0
+U0970,7,12.44,8.0,Mixed,Mobile,Africa,5.1,0
+U0971,13,10.71,15.8,Mixed,Mobile,Asia,17.6,1
+U0972,33,7.45,60.9,Mixed,TV,North America,51.0,0
+U0973,15,16.79,19.3,Series,Mobile,Africa,20.4,0
+U0974,2,16.02,3.1,Mixed,Tablet,Asia,4.6,0
+U0975,1,10.77,0.9,Mixed,Mobile,North America,0.0,0
+U0976,3,5.38,3.5,Music,Tablet,North America,13.5,1
+U0977,10,17.58,6.9,Music,Desktop,Europe,0.0,0
+U0978,1,5.17,0.8,Mixed,Mobile,Europe,1.7,0
+U0979,8,15.56,4.0,Movies,Tablet,Asia,15.6,0
+U0980,10,19.55,5.6,Movies,Desktop,Asia,14.9,1
+U0981,4,11.56,7.9,Mixed,Tablet,Asia,8.2,1
+U0982,17,8.52,14.7,Movies,Desktop,North America,11.1,1
+U0983,1,15.57,1.5,Series,TV,Asia,11.0,0
+U0984,1,17.26,1.8,Music,Mobile,North America,8.5,0
+U0985,15,13.2,19.9,Series,Mobile,Asia,13.7,0
+U0986,8,19.51,5.8,Music,Desktop,North America,0.0,1
+U0987,13,5.78,20.7,Movies,TV,North America,0.0,1
+U0988,6,12.57,8.4,Movies,Tablet,Europe,9.9,0
+U0989,3,15.78,4.8,Mixed,TV,Africa,4.0,1
+U0990,20,17.94,33.1,Movies,Tablet,North America,44.5,0
+U0991,19,7.69,37.3,Movies,Tablet,Asia,40.9,0
+U0992,14,17.0,19.0,Mixed,Mobile,Europe,32.3,0
+U0993,3,13.29,3.0,Mixed,Desktop,Asia,0.0,0
+U0994,10,10.95,14.7,Music,Mobile,Asia,26.1,0
+U0995,5,6.98,3.0,Movies,Mobile,North America,0.0,1
+U0996,1,17.98,1.8,Music,Mobile,North America,9.6,1
+U0997,29,7.36,19.7,Music,Tablet,Africa,5.1,0
+U0998,1,9.65,1.0,Series,Mobile,North America,3.4,0
+U0999,36,9.35,62.1,Movies,Tablet,North America,42.3,0
+U1000,7,18.07,9.8,Movies,Desktop,Africa,7.1,0
+U1001,2,15.09,2.2,Series,Tablet,Asia,6.6,1
+U1002,9,16.95,10.9,Music,Tablet,Africa,5.7,0
+U1003,24,8.76,42.8,Movies,TV,Africa,32.3,0
+U1004,15,14.37,15.2,Music,Mobile,Africa,23.7,0
+U1005,19,13.58,34.3,Series,Mobile,Europe,33.3,0
+U1006,12,17.49,7.6,Mixed,Mobile,Asia,2.7,0
+U1007,14,18.59,23.3,Music,Mobile,Europe,23.7,1
+U1008,22,5.18,39.0,Movies,TV,Europe,65.4,0
+U1009,3,15.11,2.3,Mixed,TV,North America,13.8,0
+U1010,8,5.78,9.2,Music,TV,Africa,20.8,0
+U1011,3,13.23,2.2,Music,TV,Africa,6.6,0
+U1012,48,9.31,74.9,Mixed,Mobile,Europe,76.6,0
+U1013,34,9.6,44.3,Mixed,Tablet,North America,20.3,0
+U1014,1,10.29,1.5,Mixed,Desktop,North America,0.0,0
+U1015,14,14.32,11.1,Movies,TV,North America,6.3,1
+U1016,31,10.01,25.3,Movies,Tablet,Asia,6.6,0
+U1017,2,15.99,1.1,Music,TV,Europe,0.0,0
+U1018,10,11.07,9.8,Music,Mobile,Asia,0.0,0
+U1019,29,6.03,38.8,Series,Mobile,North America,38.4,0
+U1020,1,16.76,1.8,Movies,Tablet,North America,10.0,1
+U1021,14,9.29,21.0,Music,Tablet,North America,32.1,1
+U1022,4,11.49,4.6,Mixed,Tablet,Africa,8.7,0
+U1023,30,15.28,57.9,Mixed,Mobile,Europe,48.3,0
+U1024,42,9.99,66.3,Movies,Mobile,Africa,47.0,0
+U1025,34,5.85,64.4,Mixed,Desktop,Asia,46.8,0
+U1026,7,10.61,9.0,Series,Tablet,Africa,0.0,0
+U1027,23,19.17,20.4,Music,Desktop,Europe,11.5,0
+U1028,22,14.63,12.7,Music,TV,Africa,11.1,1
+U1029,4,15.07,6.4,Music,Desktop,North America,0.0,0
+U1030,21,14.48,14.3,Movies,TV,Asia,17.7,0
+U1031,1,7.98,1.0,Mixed,TV,Asia,0.0,0
+U1032,10,11.28,13.0,Series,Desktop,North America,13.1,0
+U1033,3,16.26,4.0,Movies,Tablet,North America,15.4,0
+U1034,1,6.52,1.4,Music,TV,North America,0.0,1
+U1035,1,9.17,0.7,Series,Tablet,Europe,4.9,1
+U1036,14,9.14,15.0,Music,Mobile,Africa,14.9,1
+U1037,4,11.48,5.7,Music,TV,Asia,2.4,0
+U1038,15,19.71,29.3,Movies,Mobile,Africa,38.2,0
+U1039,1,6.01,1.6,Music,Desktop,North America,10.4,1
+U1040,4,12.78,7.5,Series,Tablet,North America,0.0,1
+U1041,9,7.69,14.8,Music,Desktop,Africa,13.0,0
+U1042,18,19.56,25.0,Mixed,TV,Asia,27.8,0
+U1043,4,6.7,3.2,Music,Mobile,Europe,0.5,1
+U1044,11,11.05,16.5,Movies,TV,Africa,22.4,1
+U1045,26,16.07,37.3,Series,Desktop,North America,40.1,0
+U1046,11,15.57,15.4,Movies,Tablet,North America,33.7,1
+U1047,3,11.34,3.7,Mixed,Tablet,Europe,0.0,0
+U1048,1,10.2,1.3,Music,TV,Africa,0.1,0
+U1049,24,10.96,24.0,Movies,TV,Europe,14.9,0
+U1050,1,8.96,1.3,Movies,Mobile,Europe,7.3,0
+U1051,24,8.08,19.1,Movies,Desktop,Asia,2.9,1
+U1052,9,12.25,15.4,Movies,TV,Asia,18.9,0
+U1053,33,9.03,25.7,Mixed,Mobile,North America,19.4,0
+U1054,19,9.31,11.9,Mixed,TV,Africa,4.6,0
+U1055,48,14.85,55.4,Music,Tablet,Asia,40.9,0
+U1056,5,19.53,7.4,Music,Mobile,North America,2.7,0
+U1057,17,14.05,19.7,Series,Mobile,Africa,30.5,0
+U1058,6,6.15,5.5,Mixed,TV,North America,5.2,0
+U1059,7,6.13,9.4,Movies,Desktop,Asia,15.7,1
+U1060,11,19.27,11.2,Movies,Tablet,North America,27.8,1
+U1061,24,9.46,45.6,Series,Desktop,Africa,48.2,0
+U1062,48,6.38,90.4,Movies,Mobile,Africa,84.8,0
+U1063,17,13.99,21.3,Series,Desktop,North America,26.0,0
+U1064,6,14.35,6.0,Music,Mobile,Africa,0.6,0
+U1065,6,14.73,9.6,Mixed,Desktop,North America,4.6,0
+U1066,16,9.01,8.9,Series,TV,Africa,0.0,0
+U1067,3,5.23,3.6,Movies,Desktop,North America,12.9,0
+U1068,1,19.48,1.0,Series,Mobile,North America,0.0,0
+U1069,5,8.76,9.4,Music,Tablet,North America,11.2,0
+U1070,4,15.14,2.1,Movies,Tablet,Europe,0.0,0
+U1071,4,15.6,5.3,Music,Tablet,Africa,9.7,0
+U1072,3,14.15,4.8,Music,Mobile,Asia,0.0,0
+U1073,1,9.69,1.2,Series,Desktop,North America,0.0,1
+U1074,1,9.07,0.6,Music,Tablet,Europe,9.4,0
+U1075,48,13.97,94.0,Movies,Tablet,Asia,100.0,0
+U1076,6,17.99,7.7,Music,Tablet,North America,7.5,0
+U1077,5,19.2,7.1,Music,TV,Asia,0.0,1
+U1078,13,6.59,11.1,Series,Mobile,Europe,41.0,0
+U1079,2,7.32,2.5,Music,Mobile,Asia,20.0,0
+U1080,35,19.17,40.0,Mixed,Mobile,North America,47.2,0
+U1081,18,16.05,11.0,Series,Mobile,Asia,3.5,1
+U1082,1,18.24,0.7,Series,Mobile,Asia,0.0,0
+U1083,6,8.04,10.5,Movies,TV,North America,5.1,0
+U1084,25,13.81,21.5,Movies,Desktop,Europe,34.1,0
+U1085,34,15.52,26.9,Movies,TV,Europe,29.5,0
+U1086,7,15.2,8.8,Movies,Tablet,Asia,1.0,1
+U1087,11,11.12,18.2,Mixed,TV,Africa,13.5,1
+U1088,2,5.23,1.2,Series,Mobile,Asia,12.4,1
+U1089,48,13.74,65.5,Music,TV,Africa,81.5,0
+U1090,3,8.8,2.0,Movies,Mobile,Asia,17.3,0
+U1091,34,11.75,18.9,Movies,TV,Europe,26.5,0
+U1092,12,19.36,6.9,Movies,Mobile,Asia,4.4,0
+U1093,11,10.99,19.3,Music,Tablet,Asia,0.0,0
+U1094,8,17.6,5.4,Movies,Mobile,Africa,8.4,0
+U1095,3,7.83,1.7,Music,TV,Europe,1.7,0
+U1096,2,15.09,2.3,Series,Tablet,Africa,3.7,0
+U1097,2,19.66,3.5,Series,TV,Asia,4.0,0
+U1098,2,6.53,1.8,Series,Tablet,North America,0.0,0
+U1099,18,5.12,20.4,Mixed,Desktop,Asia,26.0,0
+U1100,5,11.5,2.8,Music,Desktop,Asia,9.1,1
+U1101,1,6.39,1.2,Movies,Desktop,Africa,8.0,1
+U1102,41,16.23,56.0,Movies,TV,North America,65.5,0
+U1103,25,18.72,33.9,Movies,TV,North America,39.9,0
+U1104,31,11.51,31.0,Movies,Tablet,Africa,26.9,0
+U1105,48,8.88,46.7,Mixed,Tablet,Europe,46.0,0
+U1106,2,11.52,1.3,Movies,Tablet,North America,2.2,0
+U1107,6,15.85,6.3,Mixed,Tablet,North America,7.4,0
+U1108,17,5.14,11.0,Music,Mobile,Africa,21.0,1
+U1109,14,13.84,23.1,Series,Desktop,Europe,29.5,0
+U1110,2,14.2,3.9,Movies,Mobile,Europe,24.7,1
+U1111,20,14.57,39.1,Series,Mobile,Asia,61.2,0
+U1112,3,8.63,5.4,Music,Mobile,Asia,6.2,1
+U1113,3,15.71,4.2,Music,Mobile,Africa,0.0,0
+U1114,9,6.37,14.0,Movies,Desktop,Europe,26.4,0
+U1115,10,7.99,9.3,Music,Mobile,Africa,3.9,1
+U1116,10,18.16,14.5,Series,Tablet,Asia,6.5,0
+U1117,1,16.08,1.2,Movies,TV,Africa,0.0,0
+U1118,25,5.21,30.6,Mixed,Tablet,Africa,26.1,0
+U1119,3,8.73,4.9,Movies,TV,North America,11.0,0
+U1120,1,8.22,0.9,Series,Tablet,North America,0.0,0
+U1121,26,9.06,25.4,Movies,Tablet,North America,14.6,0
+U1122,37,8.71,69.8,Movies,TV,Asia,73.2,0
+U1123,23,5.94,13.4,Series,Desktop,Africa,19.6,0
+U1124,19,11.88,23.3,Movies,Mobile,North America,29.7,1
+U1125,12,15.99,22.4,Movies,Tablet,North America,14.5,0
+U1126,9,14.1,12.7,Series,Desktop,North America,2.9,0
+U1127,1,15.09,1.3,Music,Mobile,Asia,0.0,1
+U1128,6,6.22,5.2,Series,Desktop,Asia,7.6,0
+U1129,5,19.27,5.1,Movies,Desktop,Africa,20.0,0
+U1130,3,17.58,5.3,Mixed,Mobile,Africa,0.0,1
+U1131,15,17.08,20.1,Mixed,Tablet,Africa,17.9,0
+U1132,8,17.34,10.2,Series,Desktop,North America,0.0,1
+U1133,1,18.99,0.6,Mixed,Tablet,Europe,0.0,0
+U1134,2,13.16,1.0,Movies,Tablet,Asia,10.7,0
+U1135,13,8.0,25.3,Movies,Tablet,North America,30.7,1
+U1136,1,14.25,1.1,Series,Mobile,North America,5.6,0
+U1137,22,16.14,30.9,Movies,TV,Africa,40.1,0
+U1138,8,16.07,5.0,Music,Tablet,Africa,0.2,0
+U1139,7,12.82,10.7,Movies,TV,North America,6.4,0
+U1140,10,6.03,19.0,Series,TV,Asia,40.9,0
+U1141,20,10.57,27.3,Music,Desktop,Asia,24.8,0
+U1142,5,18.81,3.4,Music,Tablet,North America,10.8,0
+U1143,13,13.77,17.8,Mixed,Tablet,Europe,17.9,0
+U1144,10,13.07,16.5,Movies,Tablet,Europe,0.0,0
+U1145,3,9.03,3.3,Series,TV,Asia,0.0,0
+U1146,25,10.53,45.5,Mixed,Mobile,Africa,39.7,0
+U1147,19,18.43,28.0,Mixed,TV,Europe,38.6,0
+U1148,12,15.0,22.2,Movies,Tablet,Europe,30.1,0
+U1149,22,16.81,31.6,Movies,Tablet,Africa,40.7,0
+U1150,24,11.82,16.7,Series,Tablet,Europe,6.8,0
+U1151,14,14.45,13.5,Mixed,TV,North America,29.7,1
+U1152,21,8.73,16.9,Series,Tablet,Europe,7.3,0
+U1153,14,15.58,26.1,Mixed,Desktop,Africa,28.2,1
+U1154,13,11.41,21.3,Mixed,Tablet,North America,21.2,0
+U1155,11,11.64,16.7,Mixed,Mobile,Europe,15.0,0
+U1156,16,14.74,15.2,Movies,Desktop,Asia,28.6,0
+U1157,2,19.04,1.6,Mixed,Tablet,North America,0.0,0
+U1158,25,5.96,40.9,Mixed,Desktop,North America,27.4,0
+U1159,24,17.37,29.1,Mixed,Tablet,Asia,29.3,0
+U1160,1,9.39,0.8,Music,Mobile,Asia,0.0,0
+U1161,20,11.66,28.5,Movies,Tablet,Europe,62.3,0
+U1162,1,5.33,0.6,Music,Desktop,Europe,7.4,0
+U1163,4,9.52,4.0,Movies,Mobile,Africa,0.0,1
+U1164,16,12.54,19.2,Series,TV,Africa,8.6,0
+U1165,2,5.84,1.4,Music,Mobile,North America,0.0,0
+U1166,20,12.37,39.5,Series,Mobile,Asia,29.2,0
+U1167,21,18.91,17.1,Mixed,Mobile,Asia,18.2,1
+U1168,8,6.58,5.6,Series,Desktop,Africa,19.9,0
+U1169,1,16.47,0.8,Series,Mobile,North America,12.0,0
+U1170,4,11.15,6.6,Series,Tablet,North America,8.9,0
+U1171,11,14.83,12.5,Series,Mobile,Africa,9.3,0
+U1172,47,8.9,63.4,Movies,Mobile,Africa,66.1,0
+U1173,11,7.39,5.8,Music,Tablet,Africa,0.6,0
+U1174,3,7.41,1.7,Movies,Tablet,Europe,18.9,1
+U1175,12,6.06,14.0,Movies,TV,North America,12.1,0
+U1176,9,7.78,15.5,Movies,Mobile,North America,14.6,0
+U1177,18,14.96,32.9,Series,Desktop,North America,10.7,0
+U1178,1,18.23,0.6,Movies,Mobile,Africa,0.0,0
+U1179,17,17.21,22.2,Music,Mobile,Africa,30.6,0
+U1180,9,15.28,16.8,Movies,Tablet,Africa,6.1,0
+U1181,39,6.66,42.2,Mixed,TV,Africa,34.7,0
+U1182,5,9.34,8.7,Series,Mobile,Asia,16.6,0
+U1183,12,9.65,8.4,Mixed,Desktop,Africa,0.0,1
+U1184,32,8.75,60.9,Music,Mobile,Europe,71.5,0
+U1185,1,12.73,1.6,Music,Desktop,Asia,0.0,0
+U1186,33,13.03,63.1,Music,Tablet,Asia,59.2,0
+U1187,13,10.35,19.7,Music,TV,Africa,8.5,0
+U1188,1,10.31,1.0,Movies,Mobile,North America,4.8,0
+U1189,4,17.43,7.6,Series,TV,Africa,32.2,0
+U1190,14,16.84,12.8,Music,Mobile,North America,20.6,0
+U1191,1,9.62,1.0,Mixed,Desktop,Africa,0.0,0
+U1192,10,18.71,15.5,Music,TV,Africa,26.9,1
+U1193,5,19.29,8.2,Series,Mobile,North America,5.0,0
+U1194,11,9.9,20.8,Mixed,Tablet,North America,34.5,0
+U1195,1,10.32,0.8,Mixed,Desktop,North America,8.9,0
+U1196,24,12.58,40.7,Mixed,TV,North America,11.3,0
+U1197,43,19.12,69.1,Movies,Mobile,Europe,59.1,0
+U1198,41,18.14,24.4,Music,TV,North America,33.8,0
+U1199,16,6.54,17.3,Movies,Mobile,Africa,18.8,1
+U1200,1,10.89,0.9,Mixed,Desktop,Africa,0.0,1
+U1201,17,13.3,16.3,Movies,Tablet,Europe,10.0,1
+U1202,1,12.55,2.0,Movies,Desktop,North America,0.0,0
+U1203,1,7.91,1.5,Movies,TV,Africa,0.6,0
+U1204,4,17.88,6.3,Music,TV,Europe,28.4,1
+U1205,8,15.15,15.7,Mixed,Mobile,Africa,23.7,1
+U1206,17,17.57,18.1,Mixed,Desktop,Europe,40.0,0
+U1207,13,17.88,22.1,Music,Mobile,Europe,30.9,0
+U1208,7,16.23,8.1,Movies,Desktop,Asia,18.4,1
+U1209,3,11.59,5.4,Movies,TV,Asia,25.1,0
+U1210,48,14.16,37.0,Series,Mobile,North America,40.8,0
+U1211,6,7.41,11.5,Series,Mobile,Asia,9.6,0
+U1212,7,15.1,5.8,Series,Desktop,Europe,16.1,0
+U1213,2,7.69,2.0,Music,Tablet,Africa,16.5,1
+U1214,19,15.41,31.1,Mixed,Desktop,Africa,26.3,0
+U1215,14,8.44,15.3,Series,Tablet,North America,8.1,0
+U1216,2,6.76,2.8,Mixed,Desktop,Asia,4.2,0
+U1217,1,7.48,1.2,Mixed,TV,North America,9.5,0
+U1218,13,5.03,21.0,Mixed,Mobile,Europe,29.0,1
+U1219,12,15.78,10.1,Music,Desktop,Asia,0.0,1
+U1220,3,15.99,1.8,Music,TV,North America,20.9,1
+U1221,36,12.72,34.2,Music,Desktop,Africa,27.8,0
+U1222,1,7.42,1.2,Music,Mobile,Africa,0.0,0
+U1223,6,6.25,4.5,Series,Desktop,North America,0.0,0
+U1224,34,5.29,35.1,Movies,Tablet,North America,62.1,0
+U1225,6,7.49,6.6,Movies,Mobile,North America,9.0,1
+U1226,12,18.36,7.0,Movies,Tablet,Europe,0.0,0
+U1227,6,8.62,8.2,Series,TV,Europe,16.8,0
+U1228,3,10.31,5.5,Movies,TV,Africa,13.2,1
+U1229,48,6.58,34.9,Series,Desktop,Europe,33.0,0
+U1230,6,8.34,8.4,Series,Tablet,Europe,16.8,0
+U1231,26,12.79,38.9,Series,Tablet,Asia,30.6,0
+U1232,3,14.12,3.4,Movies,Mobile,Europe,0.0,0
+U1233,2,8.68,3.1,Mixed,Tablet,Asia,0.0,1
+U1234,1,5.87,1.1,Movies,Tablet,Europe,0.0,0
+U1235,12,10.87,15.1,Movies,Mobile,Africa,33.2,0
+U1236,5,8.51,2.6,Music,Mobile,North America,19.0,1
+U1237,23,8.29,35.4,Series,Tablet,Africa,36.1,0
+U1238,7,19.4,10.4,Mixed,Desktop,Europe,27.0,0
+U1239,41,14.24,22.9,Music,Mobile,North America,21.3,0
+U1240,2,13.35,2.1,Mixed,Mobile,North America,0.0,0
+U1241,24,11.24,47.2,Mixed,Tablet,North America,47.8,0
+U1242,17,11.43,19.2,Series,Tablet,Asia,18.0,1
+U1243,17,13.11,21.3,Movies,Mobile,Africa,19.1,0
+U1244,22,15.45,41.0,Series,Tablet,Asia,52.4,0
+U1245,17,15.53,26.8,Series,Mobile,North America,28.3,0
+U1246,11,7.58,15.1,Music,Desktop,Africa,22.2,0
+U1247,1,12.5,1.7,Series,Desktop,Africa,12.0,0
+U1248,1,11.18,1.8,Movies,Mobile,Europe,5.7,0
+U1249,30,18.06,35.6,Mixed,Mobile,Asia,25.9,1
+U1250,11,14.47,13.3,Series,TV,Asia,0.0,0
+U1251,19,12.99,20.5,Mixed,TV,Europe,22.0,0
+U1252,7,6.73,13.7,Series,Tablet,Asia,12.0,0
+U1253,1,14.08,1.5,Mixed,Tablet,North America,2.4,0
+U1254,1,6.76,0.6,Series,Mobile,North America,0.4,0
+U1255,13,10.06,23.3,Music,Mobile,Asia,49.1,0
+U1256,6,7.14,7.3,Mixed,TV,Europe,0.0,0
+U1257,2,15.38,1.2,Series,TV,Africa,0.0,0
+U1258,8,8.09,10.6,Series,Mobile,Asia,13.9,0
+U1259,1,10.88,1.1,Music,Desktop,Africa,0.0,1
+U1260,10,18.44,18.2,Music,Desktop,Europe,21.4,1
+U1261,3,8.06,2.4,Music,Tablet,Africa,8.2,0
+U1262,19,12.62,33.1,Mixed,Mobile,Europe,45.9,0
+U1263,4,11.29,5.3,Mixed,Mobile,Europe,0.0,1
+U1264,7,5.27,4.1,Music,Tablet,North America,0.0,0
+U1265,1,16.89,2.0,Movies,TV,North America,6.3,0
+U1266,1,6.04,1.3,Movies,TV,Europe,9.0,0
+U1267,5,12.11,4.7,Series,Desktop,Asia,26.6,1
+U1268,7,13.41,8.4,Movies,Mobile,North America,18.0,0
+U1269,10,14.43,17.9,Series,TV,Europe,17.3,0
+U1270,4,15.33,3.8,Mixed,Desktop,Africa,0.0,0
+U1271,14,8.8,11.0,Mixed,Desktop,Africa,5.4,0
+U1272,23,5.15,16.0,Movies,Desktop,Asia,10.1,0
+U1273,18,15.85,17.0,Mixed,TV,Africa,23.6,1
+U1274,1,13.03,1.7,Music,TV,Africa,4.3,0
+U1275,7,17.54,8.5,Music,Mobile,Europe,0.0,1
+U1276,1,17.32,0.8,Movies,Mobile,Africa,0.0,1
+U1277,3,17.65,2.2,Movies,Desktop,Africa,11.0,0
+U1278,48,12.28,48.0,Series,Desktop,Africa,51.5,0
+U1279,1,10.0,1.9,Mixed,TV,Africa,7.6,0
+U1280,8,16.87,8.1,Series,TV,Europe,11.9,0
+U1281,11,11.77,21.8,Series,Mobile,Africa,38.1,0
+U1282,14,7.75,17.2,Music,Mobile,Asia,19.6,0
+U1283,9,17.82,6.9,Music,Tablet,North America,3.0,0
+U1284,1,18.24,1.8,Music,Mobile,Asia,0.0,0
+U1285,4,11.99,4.8,Music,TV,North America,7.3,0
+U1286,8,6.14,12.5,Series,Desktop,Asia,0.0,0
+U1287,1,10.82,2.0,Music,Tablet,North America,0.2,0
+U1288,5,17.05,2.9,Mixed,Mobile,North America,0.8,1
+U1289,1,18.53,0.6,Music,Mobile,North America,0.0,0
+U1290,1,8.05,1.6,Music,TV,North America,0.0,0
+U1291,6,6.0,5.5,Music,Tablet,Europe,13.6,1
+U1292,1,18.16,0.8,Movies,Mobile,Asia,3.1,0
+U1293,10,10.84,5.6,Mixed,Desktop,North America,6.6,0
+U1294,14,13.13,7.5,Mixed,TV,Asia,10.6,0
+U1295,19,19.52,31.6,Series,Tablet,Africa,32.5,0
+U1296,2,6.0,1.4,Series,Mobile,North America,13.8,0
+U1297,2,14.72,2.4,Music,Mobile,Asia,3.6,0
+U1298,1,6.11,1.4,Movies,Tablet,Europe,0.0,0
+U1299,12,10.63,13.7,Series,TV,Asia,30.0,0
+U1300,14,17.06,7.6,Series,Tablet,North America,11.3,0
+U1301,1,11.5,1.7,Music,Tablet,Africa,0.0,0
+U1302,33,19.96,17.0,Music,TV,Asia,4.5,0
+U1303,1,13.39,1.6,Series,Mobile,Africa,5.6,0
+U1304,9,9.82,16.6,Series,Desktop,Europe,15.4,0
+U1305,14,8.3,16.1,Mixed,TV,Asia,31.8,0
+U1306,24,10.26,31.3,Movies,Desktop,Asia,27.8,0
+U1307,15,10.59,18.2,Mixed,Mobile,Europe,9.8,0
+U1308,19,6.03,20.6,Series,Tablet,Europe,29.6,0
+U1309,4,10.54,7.3,Mixed,Desktop,Europe,16.6,1
+U1310,20,11.96,36.8,Mixed,Mobile,North America,38.5,1
+U1311,1,15.84,1.0,Series,Mobile,North America,7.8,0
+U1312,27,14.85,38.4,Music,Tablet,Asia,38.0,0
+U1313,9,15.63,17.0,Series,Tablet,Asia,19.3,1
+U1314,20,5.13,38.9,Music,Mobile,Asia,50.5,0
+U1315,7,8.27,8.8,Series,Mobile,Africa,15.1,1
+U1316,12,14.93,14.2,Series,Desktop,Europe,12.5,0
+U1317,8,12.26,7.3,Series,Mobile,Asia,20.8,0
+U1318,15,5.08,29.1,Movies,Mobile,Europe,5.5,0
+U1319,1,17.07,0.7,Music,Desktop,North America,21.2,1
+U1320,1,16.59,1.4,Movies,TV,Europe,0.0,0
+U1321,3,13.23,2.8,Series,Desktop,Africa,0.0,0
+U1322,2,6.0,1.8,Mixed,Desktop,Africa,1.4,1
+U1323,24,16.5,26.6,Movies,Tablet,Europe,25.1,0
+U1324,2,13.76,4.0,Music,Desktop,Africa,14.1,0
+U1325,44,16.73,25.6,Series,Mobile,Africa,15.0,0
+U1326,4,16.28,5.5,Movies,Mobile,North America,8.1,1
+U1327,2,17.05,1.2,Mixed,Mobile,Asia,0.0,0
+U1328,18,12.77,13.2,Movies,TV,Africa,16.2,1
+U1329,12,7.1,13.9,Music,Mobile,Asia,13.3,0
+U1330,8,15.07,10.1,Movies,TV,Europe,11.0,0
+U1331,9,14.31,8.0,Mixed,Mobile,Europe,2.5,0
+U1332,15,16.13,14.6,Mixed,Desktop,Africa,9.5,0
+U1333,3,7.55,1.9,Music,Tablet,Europe,4.8,0
+U1334,48,7.92,45.8,Mixed,Mobile,North America,55.2,0
+U1335,44,18.36,85.8,Series,TV,Africa,79.8,0
+U1336,12,16.25,23.0,Mixed,TV,Africa,14.3,1
+U1337,2,18.62,2.0,Series,Tablet,Africa,8.1,1
+U1338,13,16.38,17.6,Movies,Mobile,Europe,17.3,1
+U1339,1,13.96,1.9,Series,Desktop,Europe,10.2,0
+U1340,1,14.81,0.5,Series,Mobile,Africa,0.0,0
+U1341,3,18.34,5.1,Movies,Mobile,Asia,0.0,0
+U1342,7,13.68,13.5,Mixed,Tablet,Europe,8.2,1
+U1343,24,14.49,15.3,Series,Mobile,Europe,7.6,0
+U1344,15,7.35,11.1,Mixed,Desktop,Africa,10.3,0
+U1345,16,12.11,31.1,Movies,TV,Asia,24.7,0
+U1346,6,15.75,7.8,Music,Tablet,Africa,15.2,0
+U1347,5,9.06,2.6,Mixed,Desktop,Europe,0.0,0
+U1348,5,8.03,4.4,Mixed,TV,Africa,5.9,0
+U1349,48,9.71,56.4,Music,Tablet,Africa,58.0,0
+U1350,1,8.62,1.5,Music,Tablet,Africa,3.4,0
+U1351,24,8.22,38.4,Movies,TV,Asia,38.2,1
+U1352,10,11.37,19.9,Mixed,TV,Africa,25.0,0
+U1353,6,18.62,5.6,Mixed,Desktop,Europe,0.0,0
+U1354,15,12.61,19.6,Movies,Mobile,Africa,33.6,0
+U1355,8,7.82,10.4,Mixed,Mobile,Asia,8.0,1
+U1356,24,6.15,26.6,Series,Mobile,North America,13.5,0
+U1357,27,15.44,20.4,Series,Mobile,Asia,22.3,0
+U1358,6,10.74,11.8,Series,Mobile,Africa,3.3,0
+U1359,3,17.33,5.3,Mixed,Desktop,North America,12.0,0
+U1360,10,14.89,12.5,Series,Tablet,Africa,34.6,0
+U1361,29,16.94,40.7,Series,Desktop,Asia,32.8,0
+U1362,2,9.08,1.7,Movies,Desktop,North America,5.0,0
+U1363,11,15.39,14.5,Movies,Desktop,North America,0.0,0
+U1364,11,8.96,17.0,Music,Tablet,Africa,21.5,0
+U1365,15,19.09,19.1,Music,Desktop,Africa,10.2,0
+U1366,1,14.55,2.0,Music,Desktop,Asia,0.0,1
+U1367,15,9.87,21.3,Music,Tablet,Africa,10.3,0
+U1368,28,9.04,29.6,Movies,Desktop,North America,36.9,0
+U1369,2,7.86,3.3,Movies,Mobile,Europe,13.4,0
+U1370,3,15.42,2.3,Movies,TV,Europe,2.5,1
+U1371,42,8.28,45.2,Series,Desktop,Asia,36.6,0
+U1372,2,13.93,2.0,Series,TV,Africa,17.9,1
+U1373,23,8.97,26.4,Music,Desktop,Asia,18.9,0
+U1374,8,14.93,13.4,Series,Desktop,Europe,0.0,0
+U1375,3,17.22,3.7,Mixed,Mobile,Europe,8.3,0
+U1376,24,16.67,40.6,Movies,Tablet,Africa,29.6,0
+U1377,7,16.41,9.6,Music,TV,North America,19.5,0
+U1378,8,7.82,8.1,Music,Tablet,Africa,4.3,0
+U1379,5,6.33,8.6,Mixed,Mobile,Europe,14.6,0
+U1380,10,15.48,8.6,Series,Mobile,North America,22.6,1
+U1381,2,10.53,1.7,Music,TV,Asia,0.0,0
+U1382,5,11.49,6.3,Series,Tablet,Europe,0.6,0
+U1383,41,5.47,36.5,Series,Mobile,Asia,35.7,0
+U1384,3,8.89,1.5,Mixed,Desktop,North America,16.9,0
+U1385,12,5.51,17.7,Music,Desktop,Asia,11.1,0
+U1386,4,18.19,5.1,Series,Desktop,Europe,0.0,0
+U1387,17,8.65,19.9,Series,Tablet,Africa,24.7,0
+U1388,1,13.36,2.0,Mixed,Desktop,Asia,0.0,0
+U1389,42,5.58,57.0,Mixed,Desktop,Europe,58.5,0
+U1390,7,15.0,12.6,Series,Mobile,Europe,0.0,0
+U1391,3,9.85,2.1,Mixed,Mobile,North America,24.2,0
+U1392,1,18.47,1.4,Series,Desktop,Europe,0.0,0
+U1393,2,18.32,3.6,Music,Desktop,Africa,0.4,1
+U1394,8,9.88,11.0,Movies,Mobile,Africa,10.7,1
+U1395,4,18.51,6.3,Mixed,TV,Asia,25.4,0
+U1396,21,19.94,22.2,Movies,Tablet,Asia,9.0,0
+U1397,6,17.38,3.8,Series,Tablet,Asia,23.6,0
+U1398,3,17.67,3.6,Series,Mobile,Asia,11.2,0
+U1399,11,8.74,12.0,Series,Tablet,Africa,16.2,0
+U1400,14,13.65,25.2,Movies,Mobile,North America,15.4,1
+U1401,2,6.01,1.7,Series,Mobile,Asia,7.4,0
+U1402,2,6.42,3.9,Mixed,Mobile,North America,0.0,0
+U1403,1,19.98,1.9,Music,Mobile,Europe,14.6,1
+U1404,15,9.9,13.1,Music,TV,Europe,3.4,0
+U1405,13,16.22,13.3,Mixed,Desktop,Asia,12.2,0
+U1406,7,17.1,12.9,Music,Desktop,Europe,7.3,0
+U1407,22,17.87,42.9,Movies,TV,North America,33.0,0
+U1408,19,19.96,22.1,Series,Tablet,North America,29.5,0
+U1409,10,8.62,9.8,Series,Tablet,Europe,15.2,1
+U1410,24,5.61,30.9,Series,Desktop,Asia,43.0,0
+U1411,2,11.17,3.1,Movies,Tablet,North America,0.0,0
+U1412,1,6.95,0.9,Movies,Desktop,North America,11.5,0
+U1413,3,5.34,4.8,Movies,Desktop,Africa,29.9,1
+U1414,1,10.41,0.6,Mixed,TV,Asia,0.0,0
+U1415,9,16.76,5.2,Movies,Tablet,Africa,24.2,1
+U1416,33,13.49,35.6,Music,TV,Europe,33.0,0
+U1417,1,9.69,1.0,Mixed,Desktop,Europe,0.0,0
+U1418,1,14.82,1.0,Mixed,Desktop,Africa,0.0,0
+U1419,7,8.48,8.7,Mixed,Desktop,Asia,19.2,1
+U1420,32,5.22,31.4,Movies,Mobile,North America,23.0,0
+U1421,4,16.47,3.2,Mixed,Mobile,Europe,0.0,1
+U1422,8,14.36,7.7,Movies,Mobile,Asia,13.6,0
+U1423,1,16.43,2.0,Movies,TV,Asia,2.0,0
+U1424,1,5.58,1.1,Mixed,Desktop,Europe,6.9,0
+U1425,48,17.56,56.0,Series,Tablet,Europe,58.4,0
+U1426,40,14.29,54.6,Series,TV,Asia,59.4,0
+U1427,1,13.45,2.0,Mixed,TV,North America,0.0,0
+U1428,36,14.37,31.0,Series,TV,Africa,33.3,1
+U1429,12,17.97,18.3,Music,Tablet,Europe,9.0,0
+U1430,24,13.8,37.8,Music,Desktop,Africa,50.7,0
+U1431,7,13.71,9.9,Movies,Mobile,Asia,3.6,1
+U1432,8,19.86,5.1,Series,Desktop,Africa,16.4,0
+U1433,8,16.35,12.1,Music,Desktop,North America,9.8,1
+U1434,13,11.63,7.7,Mixed,TV,Asia,9.7,0
+U1435,1,15.61,1.4,Series,TV,North America,0.0,0
+U1436,1,10.84,1.6,Music,TV,Asia,0.0,1
+U1437,4,8.43,3.3,Music,Mobile,North America,0.0,0
+U1438,14,13.95,24.7,Mixed,Mobile,Asia,14.1,0
+U1439,2,18.92,1.1,Movies,Mobile,North America,0.0,0
+U1440,13,18.94,23.0,Mixed,Desktop,Asia,25.1,0
+U1441,42,10.13,50.0,Movies,TV,North America,60.1,0
+U1442,1,12.92,0.8,Music,Tablet,Asia,0.0,0
+U1443,13,8.17,9.1,Movies,Desktop,North America,0.3,0
+U1444,7,19.93,13.5,Music,Mobile,Europe,0.0,0
+U1445,24,19.72,14.6,Music,Tablet,Africa,19.4,1
+U1446,2,14.74,1.6,Series,Tablet,Asia,15.4,0
+U1447,14,17.07,14.3,Movies,TV,North America,27.0,1
+U1448,21,15.73,30.0,Movies,Tablet,Europe,37.1,0
+U1449,34,13.9,44.8,Movies,Mobile,Asia,51.2,0
+U1450,13,5.8,9.0,Mixed,TV,Asia,26.0,0
+U1451,8,11.82,7.5,Series,Tablet,Asia,10.8,0
+U1452,11,15.12,9.4,Series,TV,Africa,15.9,0
+U1453,24,15.16,19.7,Series,Tablet,North America,16.5,0
+U1454,10,10.6,11.2,Mixed,Desktop,North America,0.0,0
+U1455,1,19.13,1.6,Movies,Desktop,Asia,0.0,0
+U1456,32,7.51,26.4,Movies,Mobile,Asia,26.3,0
+U1457,14,12.51,14.7,Movies,Desktop,Asia,15.3,0
+U1458,13,15.36,14.1,Series,Desktop,Europe,33.4,1
+U1459,2,15.46,3.9,Series,Desktop,Asia,4.7,1
+U1460,12,14.73,23.2,Music,Tablet,Africa,35.0,1
+U1461,6,9.13,10.2,Mixed,Tablet,North America,5.8,0
+U1462,12,7.34,10.3,Mixed,TV,Africa,7.2,0
+U1463,1,14.54,0.6,Series,Tablet,Asia,0.0,1
+U1464,12,13.99,11.7,Music,Desktop,Europe,4.3,0
+U1465,48,7.69,43.2,Movies,Tablet,Asia,48.5,0
+U1466,1,15.58,1.3,Series,Mobile,Asia,1.4,1
+U1467,45,11.83,75.0,Mixed,TV,Asia,84.4,0
+U1468,6,15.02,10.7,Mixed,TV,Asia,12.5,0
+U1469,24,17.56,42.4,Mixed,Tablet,Asia,38.9,0
+U1470,18,7.55,18.7,Movies,Desktop,North America,40.2,1
+U1471,10,5.29,15.3,Mixed,TV,Africa,14.4,0
+U1472,16,16.69,15.5,Movies,Mobile,Europe,27.1,0
+U1473,25,14.15,14.8,Movies,Mobile,Asia,10.8,0
+U1474,6,15.49,9.3,Movies,TV,Europe,16.4,1
+U1475,4,17.57,2.1,Series,Desktop,North America,11.4,0
+U1476,13,17.04,14.5,Movies,Desktop,Africa,16.6,0
+U1477,19,19.41,18.9,Music,Tablet,Asia,0.0,0
+U1478,17,13.04,26.2,Mixed,Tablet,North America,26.4,0
+U1479,19,12.33,31.3,Series,TV,North America,43.6,0
+U1480,6,11.03,5.7,Mixed,Tablet,Africa,11.0,1
+U1481,20,7.31,34.3,Movies,Tablet,Asia,38.8,0
+U1482,1,13.59,0.9,Series,Tablet,Africa,0.0,0
+U1483,9,9.16,10.5,Music,Mobile,Africa,3.3,0
+U1484,1,18.82,1.6,Movies,Tablet,Europe,5.7,0
+U1485,4,13.75,6.2,Mixed,TV,Europe,10.3,1
+U1486,5,13.89,9.9,Music,Desktop,Africa,22.0,0
+U1487,6,10.32,5.0,Movies,Tablet,Europe,3.6,1
+U1488,14,5.78,20.9,Music,Desktop,North America,25.0,0
+U1489,5,5.48,7.1,Movies,Tablet,Africa,7.3,1
+U1490,7,11.35,13.1,Series,TV,Asia,3.2,0
+U1491,3,6.27,2.2,Movies,Mobile,Asia,0.0,0
+U1492,5,14.1,8.1,Series,TV,North America,12.4,0
+U1493,3,18.21,4.1,Movies,Mobile,Asia,5.8,1
+U1494,1,18.24,0.9,Movies,Tablet,Asia,0.0,0
+U1495,11,14.89,13.3,Mixed,Tablet,Africa,0.0,1
+U1496,13,8.17,13.0,Music,Mobile,North America,19.3,1
+U1497,11,17.94,15.1,Music,TV,Africa,12.4,1
+U1498,7,18.29,12.8,Music,TV,North America,18.4,1
+U1499,5,7.95,6.8,Movies,Mobile,Africa,25.4,0
+U1500,23,16.06,33.3,Movies,Tablet,Africa,11.9,0
+U1501,8,9.3,10.2,Movies,Mobile,Europe,3.2,1
+U1502,7,17.04,4.0,Series,Tablet,Asia,1.9,1
+U1503,1,19.96,0.8,Series,Mobile,North America,15.3,0
+U1504,5,5.45,6.2,Mixed,Tablet,Asia,0.0,1
+U1505,5,18.46,4.8,Movies,Mobile,Europe,24.2,0
+U1506,6,14.34,4.6,Music,Desktop,North America,6.0,1
+U1507,10,19.6,12.6,Music,Tablet,Europe,11.6,0
+U1508,9,11.98,8.9,Mixed,TV,Asia,6.9,0
+U1509,11,17.71,9.8,Music,Mobile,Africa,5.4,1
+U1510,17,5.94,20.3,Mixed,TV,Europe,30.8,0
+U1511,20,10.03,14.0,Movies,Mobile,Europe,3.3,0
+U1512,15,6.01,28.4,Music,TV,Africa,31.9,0
+U1513,37,19.63,66.7,Movies,TV,Asia,62.9,0
+U1514,1,17.25,1.6,Series,Mobile,Europe,0.0,0
+U1515,2,17.79,1.3,Music,Mobile,Asia,27.2,0
+U1516,1,19.07,1.7,Series,TV,Africa,5.9,0
+U1517,12,6.28,20.5,Music,TV,North America,26.6,0
+U1518,27,10.78,44.6,Movies,TV,Europe,56.0,0
+U1519,3,6.07,2.0,Mixed,Tablet,Asia,0.0,1
+U1520,31,8.16,45.4,Movies,Tablet,Africa,62.9,0
+U1521,1,8.44,1.8,Movies,Desktop,Africa,0.0,0
+U1522,32,12.04,43.7,Movies,Tablet,Europe,36.0,0
+U1523,5,9.03,7.3,Music,Tablet,North America,2.7,1
+U1524,1,6.51,1.2,Mixed,Mobile,Europe,7.0,0
+U1525,7,7.51,9.1,Series,Desktop,Asia,11.3,1
+U1526,3,7.21,1.7,Movies,Desktop,Africa,0.0,1
+U1527,4,19.6,5.8,Music,Tablet,North America,5.7,0
+U1528,4,16.39,2.5,Series,Mobile,Asia,0.0,0
+U1529,19,19.52,21.9,Movies,Mobile,Europe,6.9,0
+U1530,9,11.6,8.5,Series,Desktop,Africa,15.8,0
+U1531,4,9.18,5.3,Movies,Mobile,Europe,12.2,0
+U1532,11,16.97,7.7,Series,TV,North America,23.5,1
+U1533,15,9.89,23.1,Series,Tablet,North America,15.2,0
+U1534,3,9.49,5.1,Mixed,TV,North America,12.0,1
+U1535,6,8.49,4.5,Mixed,Desktop,North America,1.7,0
+U1536,1,6.95,0.7,Movies,Desktop,North America,12.6,0
+U1537,2,8.85,1.4,Music,Mobile,Europe,11.6,0
+U1538,13,10.33,23.6,Mixed,Mobile,North America,25.7,0
+U1539,2,15.11,2.6,Series,Desktop,North America,0.0,1
+U1540,8,5.94,9.6,Mixed,Desktop,Africa,19.2,0
+U1541,14,8.16,9.2,Mixed,TV,North America,15.7,0
+U1542,1,17.14,1.5,Movies,TV,Africa,0.0,1
+U1543,10,7.2,18.0,Mixed,Mobile,Africa,4.7,1
+U1544,3,10.14,5.2,Mixed,TV,Africa,2.3,0
+U1545,39,17.97,56.1,Series,Mobile,Europe,71.3,0
+U1546,7,7.32,4.3,Mixed,Mobile,Europe,15.8,0
+U1547,19,6.24,12.7,Series,Tablet,Asia,1.6,0
+U1548,9,12.27,5.2,Mixed,Mobile,Asia,0.0,1
+U1549,1,9.54,0.9,Mixed,TV,Africa,13.6,1
+U1550,12,13.45,8.4,Music,Desktop,Europe,0.0,0
+U1551,36,17.06,32.0,Mixed,Desktop,North America,37.1,0
+U1552,11,7.06,11.9,Series,TV,Asia,5.7,0
+U1553,20,13.71,38.3,Series,Desktop,Europe,54.5,0
+U1554,25,12.58,35.4,Movies,Mobile,North America,27.7,0
+U1555,3,7.16,5.3,Movies,Desktop,North America,16.7,0
+U1556,2,14.36,3.1,Music,TV,Europe,4.9,0
+U1557,11,9.1,7.4,Series,Desktop,Asia,9.9,0
+U1558,6,12.32,9.6,Series,Mobile,Europe,0.0,0
+U1559,21,6.23,19.2,Series,Mobile,Asia,0.0,0
+U1560,27,11.89,39.4,Music,TV,Africa,37.2,0
+U1561,5,9.6,5.1,Series,TV,Europe,7.6,0
+U1562,3,17.34,6.0,Movies,TV,Europe,0.0,0
+U1563,18,5.85,16.1,Music,Tablet,Asia,5.2,0
+U1564,3,11.28,2.8,Movies,Tablet,Asia,8.4,0
+U1565,20,11.88,37.9,Movies,Mobile,Europe,43.5,0
+U1566,6,15.88,3.2,Music,Tablet,North America,1.8,1
+U1567,13,13.61,20.1,Mixed,Tablet,North America,27.9,1
+U1568,1,15.01,1.6,Mixed,Desktop,North America,0.0,0
+U1569,11,16.66,19.3,Movies,Tablet,Africa,15.7,0
+U1570,7,17.93,13.7,Mixed,Desktop,Africa,30.2,0
+U1571,10,9.71,19.6,Series,TV,Asia,20.3,0
+U1572,2,13.07,1.2,Music,Desktop,Africa,2.5,0
+U1573,16,17.6,27.7,Movies,Desktop,North America,50.8,0
+U1574,23,19.84,33.8,Series,TV,Europe,19.8,0
+U1575,2,18.34,2.9,Mixed,TV,Africa,10.9,0
+U1576,1,10.57,0.7,Series,Mobile,Africa,17.3,0
+U1577,1,7.93,1.5,Mixed,Mobile,North America,0.0,1
+U1578,12,12.34,23.7,Movies,Mobile,Africa,32.3,0
+U1579,11,16.12,20.5,Series,Mobile,Asia,10.7,0
+U1580,9,12.39,10.4,Music,Desktop,Europe,3.5,1
+U1581,3,12.25,1.7,Movies,Desktop,North America,5.5,0
+U1582,5,17.57,5.2,Series,Mobile,Asia,13.2,0
+U1583,10,10.42,17.4,Series,Tablet,North America,28.6,0
+U1584,8,17.9,12.4,Mixed,Mobile,Asia,28.1,0
+U1585,48,11.1,57.1,Movies,Tablet,Europe,56.4,0
+U1586,1,9.92,0.6,Movies,TV,Europe,12.5,1
+U1587,14,11.81,16.0,Movies,Desktop,Asia,12.6,0
+U1588,6,16.44,7.2,Movies,Desktop,Asia,16.2,0
+U1589,6,6.89,11.4,Mixed,Tablet,Asia,13.5,0
+U1590,15,7.95,21.9,Music,Mobile,Asia,26.4,1
+U1591,14,19.27,13.5,Movies,Desktop,Asia,17.7,0
+U1592,48,7.63,61.8,Mixed,Tablet,Asia,45.8,0
+U1593,1,13.52,0.6,Music,TV,Europe,0.0,0
+U1594,1,13.69,2.0,Music,TV,Asia,3.0,0
+U1595,15,12.34,15.6,Mixed,Desktop,Africa,0.0,0
+U1596,10,14.67,12.2,Movies,Mobile,Europe,20.5,1
+U1597,3,8.45,3.1,Music,Tablet,North America,11.8,0
+U1598,1,13.29,1.5,Movies,Desktop,Europe,4.8,1
+U1599,1,10.58,1.5,Movies,TV,North America,0.0,0
+U1600,26,14.93,40.9,Series,Mobile,North America,54.7,1
+U1601,2,7.12,1.8,Movies,Tablet,Africa,22.2,0
+U1602,4,13.56,3.9,Series,Desktop,Asia,5.4,0
+U1603,3,7.78,2.1,Music,Tablet,Asia,7.2,1
+U1604,5,9.18,7.4,Mixed,Mobile,Europe,9.4,0
+U1605,1,8.28,0.6,Series,Mobile,Asia,5.9,0
+U1606,8,7.74,11.2,Mixed,TV,Africa,10.0,0
+U1607,1,17.39,1.8,Music,Mobile,Europe,1.5,0
+U1608,19,9.29,34.9,Movies,Desktop,Europe,44.0,1
+U1609,3,18.91,3.5,Music,Tablet,Europe,27.0,0
+U1610,9,19.55,10.7,Mixed,Mobile,Asia,0.0,0
+U1611,25,13.57,15.4,Music,Mobile,Asia,14.4,0
+U1612,12,7.15,18.1,Movies,Desktop,Asia,6.3,0
+U1613,9,10.62,15.6,Music,Tablet,Europe,31.5,0
+U1614,4,16.97,3.5,Movies,Tablet,Europe,0.0,1
+U1615,4,10.51,4.5,Series,TV,North America,0.0,0
+U1616,13,6.31,22.9,Mixed,TV,North America,29.3,0
+U1617,48,13.35,87.2,Movies,Tablet,Asia,100.0,0
+U1618,13,17.68,11.2,Movies,Desktop,Europe,17.8,1
+U1619,9,16.94,11.9,Music,Desktop,Asia,13.9,1
+U1620,15,7.63,11.8,Series,TV,Asia,15.9,0
+U1621,7,15.09,4.6,Movies,Mobile,North America,18.7,0
+U1622,1,8.31,1.9,Series,Desktop,Africa,0.0,0
+U1623,9,8.27,15.6,Series,Mobile,Asia,14.5,0
+U1624,37,18.11,60.7,Music,Desktop,Africa,56.2,0
+U1625,2,8.75,1.1,Movies,Tablet,Africa,0.0,1
+U1626,14,8.95,24.7,Music,TV,Europe,21.4,0
+U1627,2,5.01,2.3,Mixed,Mobile,Europe,13.4,1
+U1628,9,18.06,9.1,Mixed,Mobile,Asia,14.8,0
+U1629,1,16.89,1.3,Movies,Tablet,North America,7.7,0
+U1630,7,14.41,4.5,Series,Desktop,North America,6.0,0
+U1631,16,16.25,26.2,Movies,Mobile,Asia,31.4,0
+U1632,5,7.28,6.9,Movies,Desktop,Asia,0.0,0
+U1633,13,11.87,10.1,Mixed,Tablet,North America,7.0,0
+U1634,19,10.27,14.9,Mixed,TV,Africa,16.8,0
+U1635,31,6.41,24.1,Series,Mobile,Asia,26.9,1
+U1636,3,12.29,1.8,Series,Desktop,Africa,5.0,1
+U1637,6,18.81,8.3,Movies,Mobile,Asia,6.9,0
+U1638,1,5.6,1.8,Music,Desktop,Asia,0.0,0
+U1639,48,9.37,25.3,Movies,Desktop,Africa,56.9,0
+U1640,31,8.11,17.8,Series,Desktop,Africa,26.9,0
+U1641,9,8.57,12.2,Music,Tablet,North America,16.3,0
+U1642,22,18.63,38.0,Mixed,TV,Asia,35.7,0
+U1643,8,12.02,7.9,Series,Mobile,Europe,3.4,1
+U1644,11,11.99,11.3,Series,TV,Europe,10.0,0
+U1645,1,16.41,1.4,Music,Desktop,Asia,4.3,1
+U1646,16,7.32,14.6,Series,Desktop,Asia,0.0,0
+U1647,1,12.31,0.5,Series,TV,Asia,0.0,0
+U1648,20,11.45,32.1,Series,TV,Africa,25.7,0
+U1649,18,13.95,25.9,Series,Mobile,Europe,28.0,1
+U1650,14,19.99,19.2,Series,Desktop,Europe,16.8,0
+U1651,1,16.54,1.6,Series,TV,Europe,16.4,0
+U1652,4,10.97,6.1,Series,Tablet,Asia,0.0,1
+U1653,3,17.41,2.4,Series,Desktop,Africa,0.0,0
+U1654,5,7.56,5.1,Mixed,Desktop,Asia,20.3,0
+U1655,1,5.46,0.7,Series,Mobile,North America,2.0,0
+U1656,33,8.07,22.9,Mixed,Tablet,North America,31.7,0
+U1657,9,10.11,13.6,Mixed,Mobile,Europe,34.1,0
+U1658,4,12.66,7.2,Movies,Tablet,Asia,0.3,0
+U1659,6,14.23,11.7,Movies,Mobile,North America,10.7,0
+U1660,7,18.66,10.1,Mixed,Tablet,North America,7.4,0
+U1661,11,12.65,8.5,Mixed,Tablet,Asia,0.0,1
+U1662,8,12.52,5.3,Series,Tablet,Africa,2.2,0
+U1663,30,5.75,51.6,Movies,TV,Asia,60.4,0
+U1664,8,5.52,10.9,Music,Desktop,Asia,16.3,0
+U1665,48,13.27,68.5,Movies,Tablet,Africa,74.7,0
+U1666,22,11.57,36.8,Mixed,TV,Europe,33.0,0
+U1667,2,17.59,3.1,Mixed,TV,Europe,0.0,0
+U1668,32,7.41,56.1,Series,Mobile,Europe,68.8,0
+U1669,1,5.37,0.6,Series,Desktop,Africa,0.0,1
+U1670,20,11.74,32.4,Movies,Desktop,North America,35.3,0
+U1671,5,8.56,8.9,Series,Mobile,Africa,10.5,0
+U1672,25,5.74,23.2,Music,Desktop,Asia,37.8,1
+U1673,24,15.87,35.1,Music,Mobile,Africa,44.8,0
+U1674,19,6.67,18.5,Series,TV,North America,5.5,0
+U1675,18,14.12,34.9,Music,TV,North America,23.0,0
+U1676,4,9.22,2.2,Music,Tablet,Asia,8.0,0
+U1677,1,7.6,1.4,Movies,Mobile,Europe,0.8,1
+U1678,6,10.7,4.5,Music,TV,North America,0.0,0
+U1679,2,17.02,3.1,Mixed,TV,North America,13.3,1
+U1680,14,10.88,10.7,Mixed,Mobile,North America,12.6,0
+U1681,5,16.26,4.3,Movies,TV,Asia,4.8,0
+U1682,44,6.88,54.6,Series,Desktop,North America,62.4,0
+U1683,12,16.59,22.5,Movies,TV,Europe,18.7,0
+U1684,20,8.55,16.4,Series,Mobile,Asia,32.1,1
+U1685,1,15.16,0.7,Series,Desktop,Europe,0.0,0
+U1686,23,13.49,37.7,Series,Desktop,North America,44.3,0
+U1687,30,18.94,37.5,Series,TV,North America,51.8,0
+U1688,8,10.81,14.9,Series,Tablet,Europe,1.1,0
+U1689,11,5.99,7.9,Movies,Desktop,Asia,4.5,0
+U1690,17,5.29,25.0,Series,Mobile,Asia,36.4,0
+U1691,2,17.4,1.7,Music,Tablet,Europe,13.3,1
+U1692,8,12.87,5.9,Music,Tablet,North America,4.2,0
+U1693,6,16.63,9.2,Series,Desktop,Africa,1.9,0
+U1694,1,8.52,1.4,Music,TV,Europe,11.0,0
+U1695,5,10.18,8.2,Mixed,Tablet,Europe,20.0,0
+U1696,1,5.45,1.0,Movies,TV,Europe,0.0,0
+U1697,1,19.42,1.2,Movies,Desktop,North America,0.0,0
+U1698,1,15.02,1.1,Series,Mobile,Asia,3.4,0
+U1699,39,19.0,77.1,Series,Tablet,North America,83.4,0
+U1700,9,8.98,8.4,Mixed,Mobile,Europe,5.4,0
+U1701,40,14.17,37.7,Series,TV,North America,44.5,0
+U1702,6,15.18,6.2,Music,TV,North America,0.0,0
+U1703,4,9.76,5.4,Mixed,Mobile,Europe,0.0,0
+U1704,8,17.72,7.0,Music,Desktop,North America,2.8,0
+U1705,6,19.21,11.2,Movies,Desktop,Africa,11.8,0
+U1706,1,18.27,0.9,Music,Tablet,North America,0.0,0
+U1707,12,16.09,22.1,Movies,Tablet,North America,10.5,0
+U1708,2,9.16,1.3,Music,Desktop,Asia,0.0,1
+U1709,11,9.22,16.3,Movies,Desktop,Asia,11.2,0
+U1710,12,19.45,22.3,Series,Mobile,Europe,31.3,0
+U1711,1,5.15,0.8,Music,TV,Europe,13.4,0
+U1712,1,15.74,2.0,Movies,TV,Asia,13.9,0
+U1713,18,15.59,21.2,Music,Tablet,Africa,13.0,1
+U1714,7,14.34,13.4,Mixed,Desktop,North America,1.9,0
+U1715,1,19.85,1.5,Series,Mobile,Africa,6.5,0
+U1716,48,9.68,45.7,Movies,Tablet,Africa,52.1,0
+U1717,1,10.1,0.8,Mixed,Mobile,Asia,4.8,0
+U1718,14,6.18,13.4,Music,Desktop,Europe,0.0,0
+U1719,48,11.64,30.7,Mixed,Desktop,North America,22.0,0
+U1720,3,8.92,2.1,Music,Desktop,Europe,1.8,1
+U1721,1,10.15,0.7,Series,TV,Africa,5.6,1
+U1722,1,17.52,1.1,Mixed,Desktop,Africa,8.8,1
+U1723,4,19.03,6.8,Series,Tablet,Europe,8.2,0
+U1724,1,7.79,0.7,Movies,TV,Europe,4.0,0
+U1725,14,10.59,9.7,Music,Mobile,Asia,10.5,1
+U1726,1,18.93,1.5,Music,Tablet,Europe,8.4,1
+U1727,8,5.93,6.4,Series,Tablet,Europe,9.5,1
+U1728,48,6.39,31.0,Series,Mobile,Asia,31.7,0
+U1729,20,7.44,15.0,Movies,TV,Europe,12.3,0
+U1730,11,13.93,20.7,Mixed,Tablet,Africa,21.5,0
+U1731,4,7.26,6.9,Music,Tablet,Europe,11.7,0
+U1732,11,19.52,11.3,Music,Tablet,North America,14.0,0
+U1733,8,11.7,11.9,Movies,TV,Africa,15.7,0
+U1734,6,12.52,7.8,Movies,TV,Asia,21.2,0
+U1735,1,8.7,1.5,Series,TV,Africa,4.2,1
+U1736,26,12.06,39.6,Series,Tablet,Asia,33.1,0
+U1737,7,14.93,10.1,Mixed,Desktop,North America,18.9,0
+U1738,2,16.27,1.8,Movies,Mobile,North America,0.0,0
+U1739,5,16.31,2.8,Mixed,Desktop,Africa,0.0,0
+U1740,6,13.67,7.1,Movies,TV,Europe,10.5,0
+U1741,21,18.57,38.6,Music,Tablet,Africa,43.8,0
+U1742,15,17.26,20.3,Movies,Tablet,Africa,7.8,0
+U1743,17,16.36,29.7,Movies,Desktop,North America,25.9,0
+U1744,1,5.83,2.0,Music,Desktop,Asia,0.0,1
+U1745,6,5.1,4.5,Movies,Mobile,Africa,0.0,1
+U1746,7,8.19,10.8,Mixed,Tablet,Europe,20.2,1
+U1747,1,14.95,1.5,Series,Desktop,North America,8.6,0
+U1748,3,11.17,5.9,Series,Mobile,Africa,5.7,0
+U1749,17,11.04,33.6,Mixed,TV,Africa,28.1,1
+U1750,1,18.27,1.5,Music,Desktop,Europe,0.0,0
+U1751,9,18.43,7.8,Movies,TV,Africa,22.0,0
+U1752,2,18.64,3.4,Mixed,Mobile,Africa,9.3,1
+U1753,1,9.71,0.7,Series,TV,Africa,0.0,0
+U1754,3,15.37,5.0,Series,Tablet,Africa,12.2,0
+U1755,44,9.07,82.1,Mixed,Tablet,Europe,81.4,0
+U1756,19,7.86,20.4,Series,TV,Africa,17.5,0
+U1757,38,7.77,54.9,Mixed,Tablet,Africa,59.3,0
+U1758,8,10.13,9.2,Series,Mobile,Africa,1.8,0
+U1759,1,11.45,1.2,Mixed,Tablet,North America,0.0,1
+U1760,9,17.46,8.7,Movies,TV,Europe,9.9,1
+U1761,7,6.8,11.5,Movies,TV,North America,6.5,0
+U1762,22,16.02,41.9,Movies,TV,North America,48.6,0
+U1763,1,12.97,1.9,Movies,Desktop,Europe,20.6,1
+U1764,8,9.32,6.1,Series,TV,North America,0.0,0
+U1765,1,12.39,1.8,Music,Mobile,North America,0.0,0
+U1766,4,9.5,6.4,Mixed,Tablet,North America,0.0,1
+U1767,16,13.94,14.1,Music,Tablet,Europe,12.6,1
+U1768,7,11.51,4.2,Series,Desktop,Africa,0.0,0
+U1769,5,7.47,4.5,Series,Desktop,Asia,6.6,1
+U1770,6,6.75,11.2,Music,Mobile,Asia,12.5,0
+U1771,7,13.2,10.1,Music,TV,Europe,0.0,0
+U1772,18,18.54,28.5,Series,Desktop,Asia,10.4,0
+U1773,26,10.16,23.0,Series,Tablet,Europe,26.0,0
+U1774,37,16.0,58.4,Mixed,Desktop,Europe,59.8,0
+U1775,18,14.88,9.8,Movies,Desktop,Asia,5.5,1
+U1776,4,18.97,4.3,Movies,TV,North America,0.0,0
+U1777,13,17.31,18.7,Mixed,Desktop,Africa,23.4,0
+U1778,6,13.5,4.3,Music,Mobile,Asia,17.0,1
+U1779,3,14.86,5.2,Series,Tablet,Asia,8.0,1
+U1780,22,18.48,18.8,Music,TV,Asia,10.3,0
+U1781,1,10.99,1.5,Movies,Tablet,Asia,1.9,0
+U1782,27,9.9,29.9,Movies,Mobile,Europe,16.2,0
+U1783,7,5.16,9.8,Music,Mobile,Europe,20.4,0
+U1784,12,17.4,7.9,Movies,Desktop,Africa,8.7,1
+U1785,12,17.01,6.3,Series,Desktop,Africa,0.0,0
+U1786,27,6.57,50.3,Mixed,Desktop,Asia,47.3,0
+U1787,12,13.65,10.9,Music,Tablet,Asia,15.5,0
+U1788,11,11.96,19.0,Series,Mobile,Asia,15.7,0
+U1789,1,6.78,2.0,Series,TV,Africa,0.0,0
+U1790,8,19.71,6.5,Movies,Desktop,Asia,0.0,0
+U1791,1,8.22,0.9,Series,Tablet,North America,6.6,1
+U1792,16,6.01,23.9,Music,Desktop,Africa,17.4,0
+U1793,8,13.92,15.6,Series,Mobile,North America,0.0,0
+U1794,13,16.08,24.4,Mixed,TV,Asia,20.7,0
+U1795,1,5.49,1.3,Series,Mobile,Europe,11.1,1
+U1796,1,14.88,1.7,Series,Tablet,North America,0.0,0
+U1797,15,12.98,10.6,Mixed,Desktop,Africa,28.0,1
+U1798,1,6.55,2.0,Series,Mobile,North America,6.3,0
+U1799,1,7.59,1.9,Series,Tablet,Africa,5.3,0
+U1800,1,13.52,0.7,Movies,Desktop,Asia,0.0,0
+U1801,37,9.45,35.1,Music,TV,North America,34.4,0
+U1802,16,19.07,10.4,Movies,Mobile,Europe,7.8,0
+U1803,5,17.28,4.5,Music,Desktop,North America,1.5,0
+U1804,4,19.75,6.9,Mixed,Desktop,Europe,12.2,1
+U1805,5,8.9,5.3,Mixed,Desktop,Africa,0.0,0
+U1806,17,19.55,10.8,Mixed,Desktop,Asia,0.0,0
+U1807,12,11.47,12.2,Music,Mobile,Asia,1.0,0
+U1808,2,10.21,3.9,Music,Desktop,Europe,24.4,1
+U1809,2,5.76,2.9,Music,Tablet,Africa,8.2,0
+U1810,1,5.79,1.1,Mixed,Mobile,Asia,4.1,0
+U1811,12,15.38,9.0,Music,Desktop,Africa,0.0,0
+U1812,17,11.87,33.6,Series,Mobile,Europe,39.8,1
+U1813,3,8.4,5.2,Movies,Tablet,Europe,4.0,1
+U1814,1,14.21,0.9,Mixed,Tablet,North America,3.0,1
+U1815,1,8.79,0.6,Movies,Mobile,Asia,0.0,1
+U1816,41,13.66,24.0,Series,Desktop,Asia,25.6,0
+U1817,4,10.39,2.7,Music,Desktop,North America,0.0,0
+U1818,17,17.35,23.3,Movies,Tablet,Europe,15.6,0
+U1819,11,17.31,20.8,Series,Desktop,Europe,28.1,0
+U1820,5,12.16,6.2,Series,Tablet,Europe,0.0,0
+U1821,2,10.26,3.5,Movies,Desktop,Europe,9.1,0
+U1822,1,10.44,1.2,Mixed,Tablet,Africa,8.0,1
+U1823,11,17.09,17.2,Movies,TV,Asia,8.4,1
+U1824,17,9.92,27.2,Mixed,Desktop,Asia,19.0,0
+U1825,12,8.14,9.1,Music,Desktop,Europe,6.9,1
+U1826,9,6.27,9.4,Mixed,Desktop,Europe,12.2,1
+U1827,1,12.0,1.5,Music,Mobile,Europe,0.0,1
+U1828,41,12.23,24.8,Movies,Desktop,Asia,29.1,0
+U1829,19,17.61,19.8,Music,Mobile,Asia,37.4,0
+U1830,4,8.32,5.2,Series,Mobile,Europe,0.1,1
+U1831,46,10.71,91.7,Music,Tablet,Africa,74.5,0
+U1832,11,17.13,13.3,Mixed,Mobile,North America,21.6,0
+U1833,10,17.35,17.2,Mixed,Mobile,North America,34.0,0
+U1834,16,10.77,18.4,Mixed,TV,North America,22.3,0
+U1835,20,11.89,33.9,Music,Desktop,Asia,23.0,0
+U1836,12,9.55,16.7,Mixed,Mobile,Asia,15.5,1
+U1837,1,18.99,1.8,Mixed,Desktop,North America,0.0,0
+U1838,4,6.78,4.5,Series,Mobile,North America,10.9,0
+U1839,31,19.01,43.6,Music,Tablet,Africa,30.1,0
+U1840,3,15.26,4.3,Series,TV,Asia,1.3,0
+U1841,5,12.97,5.6,Mixed,Mobile,Asia,0.0,0
+U1842,6,5.49,4.3,Mixed,Desktop,North America,5.6,0
+U1843,6,12.13,3.8,Mixed,Tablet,Africa,0.1,0
+U1844,11,11.12,5.8,Music,Desktop,Africa,7.6,1
+U1845,34,7.42,61.6,Movies,Tablet,North America,61.8,0
+U1846,3,14.85,2.6,Mixed,TV,North America,0.0,0
+U1847,1,19.57,0.8,Mixed,Tablet,Asia,7.1,1
+U1848,2,13.43,3.2,Mixed,Desktop,North America,2.7,0
+U1849,26,15.72,25.5,Mixed,Desktop,Europe,15.6,1
+U1850,12,6.03,15.1,Music,Mobile,Africa,37.5,1
+U1851,4,11.27,3.0,Movies,Tablet,North America,7.8,0
+U1852,20,6.75,38.8,Movies,Desktop,Europe,37.3,0
+U1853,23,14.19,40.9,Movies,Mobile,Africa,55.1,0
+U1854,22,19.08,39.5,Mixed,TV,Europe,57.9,0
+U1855,30,14.93,33.3,Mixed,Desktop,Europe,31.8,1
+U1856,3,6.15,4.9,Movies,Mobile,North America,8.4,0
+U1857,16,10.32,11.5,Movies,Desktop,Africa,1.6,0
+U1858,7,13.26,3.6,Mixed,Tablet,Europe,2.1,0
+U1859,22,11.05,11.7,Mixed,Mobile,Asia,9.7,0
+U1860,15,17.5,20.7,Series,Tablet,Africa,22.5,0
+U1861,17,17.22,20.1,Series,TV,Asia,23.4,1
+U1862,12,14.18,15.3,Series,Tablet,North America,20.9,0
+U1863,2,10.6,1.0,Movies,Mobile,Asia,3.4,1
+U1864,9,8.83,10.2,Music,Desktop,Africa,0.0,1
+U1865,48,6.59,75.7,Mixed,Mobile,Europe,66.3,0
+U1866,33,10.32,38.4,Series,Tablet,Europe,32.9,0
+U1867,1,11.2,1.6,Music,Tablet,Africa,0.0,0
+U1868,2,15.14,1.7,Mixed,Desktop,Europe,12.2,0
+U1869,1,14.87,1.7,Music,TV,Asia,0.0,0
+U1870,15,6.05,20.7,Movies,Mobile,Europe,17.1,1
+U1871,20,10.93,16.3,Movies,Desktop,Europe,25.8,1
+U1872,2,7.73,1.7,Movies,Desktop,Asia,0.0,0
+U1873,8,7.35,11.5,Series,Desktop,Asia,16.1,0
+U1874,22,17.41,38.4,Mixed,Mobile,Asia,37.0,0
+U1875,15,5.63,16.9,Movies,Mobile,North America,19.5,0
+U1876,9,11.29,8.0,Series,Mobile,Asia,5.7,0
+U1877,10,7.52,18.0,Series,TV,Asia,24.7,1
+U1878,8,18.19,12.0,Series,Desktop,North America,0.0,0
+U1879,4,13.36,4.7,Series,Tablet,Europe,1.1,0
+U1880,9,8.47,11.1,Movies,Tablet,Asia,14.1,0
+U1881,14,12.54,11.3,Series,Desktop,Africa,16.6,0
+U1882,24,15.97,34.6,Movies,Tablet,Asia,49.5,0
+U1883,12,19.37,12.5,Movies,TV,Asia,8.6,0
+U1884,17,8.31,33.9,Series,TV,North America,48.7,0
+U1885,2,18.29,2.4,Movies,Mobile,Africa,0.0,0
+U1886,7,19.01,8.6,Mixed,Mobile,Europe,21.9,0
+U1887,1,18.75,1.3,Mixed,Mobile,Europe,9.5,0
+U1888,3,14.53,5.6,Music,Mobile,Africa,0.0,1
+U1889,15,14.45,25.5,Mixed,Mobile,Asia,28.6,0
+U1890,48,11.05,56.5,Movies,Tablet,North America,56.0,0
+U1891,1,16.29,1.6,Movies,Tablet,Africa,7.9,1
+U1892,6,12.97,8.3,Mixed,Mobile,Africa,6.1,0
+U1893,19,15.16,23.5,Series,TV,Europe,20.4,0
+U1894,2,11.43,1.6,Series,Tablet,North America,15.3,1
+U1895,9,15.97,10.8,Movies,TV,Africa,9.8,0
+U1896,15,17.37,13.0,Series,TV,North America,21.3,1
+U1897,11,7.2,20.6,Music,Desktop,Asia,18.3,1
+U1898,2,17.49,2.0,Music,Desktop,Europe,18.7,0
+U1899,5,13.1,9.6,Mixed,Mobile,Asia,2.8,0
+U1900,18,17.67,23.4,Mixed,TV,North America,17.3,0
+U1901,9,11.47,13.0,Series,Tablet,Asia,28.2,0
+U1902,1,10.69,1.3,Movies,Desktop,Europe,0.0,0
+U1903,17,18.73,11.8,Mixed,Desktop,North America,27.8,0
+U1904,1,8.77,1.1,Music,TV,Africa,10.0,1
+U1905,16,17.66,10.4,Mixed,Desktop,Asia,8.9,0
+U1906,2,12.26,2.9,Mixed,Desktop,Europe,0.0,1
+U1907,38,12.71,44.5,Music,Tablet,Africa,44.3,0
+U1908,5,9.63,8.3,Movies,TV,Europe,9.3,1
+U1909,4,13.6,3.3,Mixed,Desktop,North America,15.0,1
+U1910,1,9.88,0.7,Mixed,TV,North America,16.6,1
+U1911,4,5.59,4.4,Mixed,Desktop,Asia,0.0,0
+U1912,25,9.08,47.2,Series,Tablet,Europe,55.2,0
+U1913,48,5.1,75.2,Mixed,TV,Europe,82.9,0
+U1914,5,19.68,5.6,Music,Desktop,Europe,16.3,0
+U1915,7,19.49,8.9,Movies,Tablet,North America,13.9,0
+U1916,15,10.93,9.4,Movies,Desktop,Asia,0.0,0
+U1917,26,15.93,51.4,Music,TV,Europe,49.8,0
+U1918,10,10.19,15.0,Series,Desktop,Europe,3.4,0
+U1919,5,15.07,4.6,Music,TV,Africa,2.6,0
+U1920,6,17.08,8.3,Movies,TV,Europe,18.1,0
+U1921,14,19.2,9.3,Music,Desktop,Asia,12.4,1
+U1922,1,11.0,1.9,Series,Tablet,Africa,13.4,0
+U1923,11,16.75,8.4,Movies,Mobile,Africa,11.8,1
+U1924,5,8.99,7.4,Series,Tablet,Africa,0.0,0
+U1925,18,19.85,15.6,Music,Tablet,North America,0.0,0
+U1926,1,5.39,1.6,Mixed,Desktop,Africa,3.1,0
+U1927,10,14.05,16.7,Music,Tablet,Europe,14.6,1
+U1928,7,14.89,10.6,Series,Tablet,North America,0.8,0
+U1929,12,15.32,17.1,Music,Mobile,North America,0.1,0
+U1930,1,6.81,1.8,Mixed,Tablet,North America,0.0,0
+U1931,10,19.08,6.2,Series,Mobile,North America,4.3,0
+U1932,9,7.72,9.0,Music,Desktop,North America,15.7,0
+U1933,9,14.34,7.9,Series,Mobile,North America,9.8,0
+U1934,11,8.34,21.8,Series,TV,North America,37.9,1
+U1935,13,9.61,14.1,Movies,TV,Africa,3.7,0
+U1936,19,13.2,30.4,Movies,Mobile,Asia,39.2,0
+U1937,3,11.26,4.6,Series,TV,Europe,5.1,0
+U1938,20,7.4,16.4,Music,Desktop,Europe,23.3,0
+U1939,8,7.56,6.9,Music,TV,Africa,2.5,1
+U1940,1,11.27,0.9,Music,Mobile,Africa,11.6,0
+U1941,1,16.36,1.1,Mixed,Desktop,North America,4.1,0
+U1942,4,18.47,3.4,Series,TV,Asia,0.0,0
+U1943,18,6.26,9.5,Series,Desktop,North America,9.4,1
+U1944,14,10.9,25.5,Mixed,Mobile,Africa,23.1,0
+U1945,18,6.5,35.1,Series,TV,North America,40.0,0
+U1946,8,5.25,8.1,Series,Desktop,Europe,0.0,0
+U1947,6,14.93,6.0,Mixed,Desktop,Europe,5.7,0
+U1948,1,14.04,0.5,Movies,TV,North America,4.5,0
+U1949,4,7.45,6.1,Series,Desktop,Asia,6.4,0
+U1950,6,8.51,10.4,Mixed,Desktop,North America,23.9,0
+U1951,1,5.36,0.7,Music,Mobile,North America,8.4,0
+U1952,2,17.52,1.5,Movies,Mobile,Asia,1.4,0
+U1953,10,19.62,16.9,Music,Mobile,Asia,19.1,0
+U1954,15,7.03,21.4,Series,Mobile,Asia,24.4,0
+U1955,48,8.47,27.2,Movies,Mobile,Europe,31.2,0
+U1956,32,18.03,45.9,Mixed,Mobile,North America,27.6,0
+U1957,12,18.9,11.6,Series,TV,Africa,8.6,1
+U1958,6,11.29,6.3,Mixed,Mobile,Asia,0.0,0
+U1959,12,5.76,19.9,Movies,Desktop,Asia,32.7,0
+U1960,18,5.59,30.9,Music,TV,North America,30.3,0
+U1961,1,13.61,1.1,Series,Desktop,Africa,0.0,0
+U1962,6,10.89,11.5,Series,Mobile,North America,20.5,0
+U1963,21,5.43,23.3,Mixed,Mobile,North America,27.5,0
+U1964,5,13.75,8.3,Movies,Desktop,Asia,0.0,1
+U1965,10,5.17,12.3,Mixed,Desktop,Asia,11.6,0
+U1966,10,16.81,18.5,Movies,Desktop,Europe,15.1,0
+U1967,2,9.6,3.7,Series,Tablet,Africa,0.0,1
+U1968,5,5.6,3.2,Movies,Tablet,Africa,0.0,1
+U1969,4,13.83,7.6,Series,Tablet,Asia,5.8,0
+U1970,1,10.97,1.7,Movies,Tablet,Asia,0.6,0
+U1971,1,19.61,1.7,Music,TV,Asia,0.0,1
+U1972,21,13.16,16.8,Movies,Mobile,Africa,28.3,0
+U1973,3,9.13,5.1,Music,Desktop,Europe,4.1,0
+U1974,8,15.64,14.2,Movies,Mobile,Africa,14.6,0
+U1975,4,9.07,3.7,Movies,Desktop,Asia,7.7,1
+U1976,33,18.56,63.6,Mixed,Mobile,Asia,55.7,0
+U1977,3,10.62,1.7,Mixed,TV,Europe,6.3,0
+U1978,6,13.25,4.3,Series,Tablet,North America,0.6,1
+U1979,24,5.76,31.4,Mixed,Mobile,North America,22.4,0
+U1980,22,11.39,30.0,Movies,Desktop,Africa,35.7,0
+U1981,2,17.49,2.9,Mixed,Mobile,North America,17.8,1
+U1982,19,17.08,10.0,Movies,TV,North America,17.2,1
+U1983,7,8.36,13.6,Music,TV,Africa,22.8,1
+U1984,7,8.39,4.0,Movies,Mobile,Asia,0.0,0
+U1985,1,17.26,0.7,Series,Tablet,North America,0.0,1
+U1986,1,18.96,0.5,Music,Desktop,Asia,15.4,1
+U1987,15,6.43,20.3,Series,TV,Africa,40.8,0
+U1988,8,11.75,15.2,Series,TV,Asia,30.6,1
+U1989,6,10.06,9.0,Series,Mobile,Asia,5.6,1
+U1990,15,18.06,26.0,Mixed,TV,Africa,14.5,0
+U1991,17,6.25,8.8,Series,TV,Asia,0.0,0
+U1992,2,8.17,2.6,Music,Desktop,North America,0.0,1
+U1993,11,16.29,13.1,Movies,Tablet,North America,12.0,1
+U1994,1,5.77,1.2,Series,Desktop,North America,17.3,1
+U1995,16,12.39,9.7,Music,Tablet,North America,8.3,0
+U1996,12,11.63,18.3,Series,Desktop,Asia,21.3,0
+U1997,37,10.02,46.4,Movies,Mobile,North America,60.2,0
+U1998,1,10.92,1.6,Music,TV,Asia,0.0,0
+U1999,1,12.95,1.2,Music,Tablet,Europe,21.6,1
+U2000,3,7.42,2.2,Movies,Mobile,Asia,22.1,0
